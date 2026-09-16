@@ -1,0 +1,4 @@
+interface:
+  display_name: "万象棋阵容研究"
+  short_description: "分析成长资源到主C及队伍战力的转化，比较觉醒、锦囊与升阶，按回合给出首选和转型分支"
+  default_prompt: "使用 $wanxiang-build，结合成长分配、主C输出窗口与关键减员设计构筑，比较觉醒、锦囊和升阶的机会成本，按回合给出首选与整队转型分支，实操在前、分析在后。"

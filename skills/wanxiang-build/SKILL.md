@@ -1,5 +1,5 @@
 ---
-name: wanxiang-lineup
+name: wanxiang-build
 description: 基于本地王者万象棋规则与卡牌，分析成长资源如何经主C、保护与副C转成战斗优势，量化比较觉醒、锦囊与升阶的机会成本，按回合给出首选和整队转型分支。适用于阵容研究和实战运营；其他自走棋需另提供规则与卡牌。
 ---
 
@@ -17,7 +17,7 @@ description: 基于本地王者万象棋规则与卡牌，分析成长资源如�
 
 每局开始系统随机禁用一个阵营的英雄，先排除本局被禁英雄。禁用未知时按受影响阵营列适用与换路条件；减少不可替代核心对多个阵营的依赖，不能默认全库同局可用。禁用已确定后不再假设对局中会继续随机禁用。详见规则§3.5.2与 [推理与构筑方法](references/reasoning.md)。
 
-本skill位于项目的 `.agents/skills/wanxiang-lineup/`。先读 [资料与规则边界](references/sources.md)，再读取本skill内 [规则原文](data/documents/王者万象棋规则说明.md) 和 [补充说明](data/documents/补充说明.md)。卡牌等完整原文保存在 `data/documents/`，参考阵容原文保存在 `data/references/`；本层 `references/` 是分析方法。按需查询记录的全部描述、关键词、觉醒卡、技能和预览卡牌。使用名称加类型/ID定位，区分英雄瑶与棋手瑶妹、英雄马可波罗与棋手马可、两种镜和弈星。`source_config.json` 的 `data_root` 默认值为 `data`，相对本SKILL.md所在目录解析，与启动时工作目录无关；每次实际使用重新核对原文件，示例不是缓存的现行规则。
+本skill位于项目的 `.agents/skills/wanxiang-build/`。先读 [资料与规则边界](references/sources.md)，再读取本skill内 [规则原文](data/documents/王者万象棋规则说明.md) 和 [补充说明](data/documents/补充说明.md)。卡牌等完整原文保存在 `data/documents/`，参考阵容原文保存在 `data/references/`；本层 `references/` 是分析方法。按需查询记录的全部描述、关键词、觉醒卡、技能和预览卡牌。使用名称加类型/ID定位，区分英雄瑶与棋手瑶妹、英雄马可波罗与棋手马可、两种镜和弈星。`source_config.json` 的 `data_root` 默认值为 `data`，相对本SKILL.md所在目录解析，与启动时工作目录无关；每次实际使用重新核对原文件，示例不是缓存的现行规则。
 
 用户已补充成长模板、10/40/100级技能强化、召唤物成长和抗性模型。分析输出、生存或等级收益时读 [数值计算与新增规则](references/combat-math.md)，再查对应原文；不再将这些资料笼统列为缺失。阿科米亚核心默认按场上日落海人数均分临时等级，**不触发司空震等临时等级连锁**；竞拍分红按存活人数和系统排名查表，不把掉血本身等同于分红增加。
 
