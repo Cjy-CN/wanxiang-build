@@ -2,6 +2,8 @@
 
 本 Skill 适合不喜欢照搬官方构筑、热门构筑或固定棋手玩法的玩家，帮助你基于规则和卡牌资料构建属于自己的独特构筑。
 
+该 Skill 将游戏原始资料连接到一套可解释、可量化的运营分析流程，并通过内置的多套门禁机制进行逻辑校验，避免 Agent “靠感觉”产出阵容推荐。
+
 卡牌与规则资料来源于游戏对局记录、游戏内文档、游戏官网文档，以及[万象棋知识站](https://wanxiangqiwiki.com/)。不同来源的内容会在本地资料中交叉核对；当规则或字段存在未确认之处时，Skill 会保留假设和适用边界，不将策略推论冒充游戏规则。
 
 快速入口：[Skill 指令](skills/wanxiang-build/SKILL.md) · [规则与资料边界](skills/wanxiang-build/references/sources.md) · [评分规则](skills/wanxiang-build/references/scoring.md) · [战斗转化评估](skills/wanxiang-build/references/combat-evaluation.md) · [觉醒 / 升阶机会成本](skills/wanxiang-build/references/investment.md)
