@@ -68,7 +68,7 @@ flowchart LR
 - 升阶后的新卡池下一回合才生效；本回合不能用手动刷新提前获得新池。
 - 效果锦囊独立于英雄公共卡池，没有张数消耗；打开锦囊消耗 1 张，三个卡槽的品阶独立抽取，最后三选一。
 - 经济和检索牌从买入时就规划停投与退出。基础收入提高会改变边际价值，但不会自动证明它们应该淘汰；是否仍能改变有效行动才是判断依据。
-- 脚本只负责检索、指纹和算术复核，不能代替 Agent 解释卡文、提出阵容或完成战斗判断。
+- 检索、指纹和算术复核由 Skill 内部完成，不能代替 Agent 解释卡文、提出阵容或完成战斗判断。
 
 ## 仓库内容
 
@@ -81,7 +81,6 @@ flowchart LR
 │  │  ├─ documents/                    # 规则与卡牌原文
 │  │  └─ references/                   # 官方 / 热门阵容，仅作比较基线
 │  ├─ references/                      # 分析方法、评分、战斗与投资规则
-│  ├─ scripts/                         # 只读检索与评分校验脚本
 │  └─ source_config.json               # 默认资料根目录：data/
 └─ README.md
 ```
@@ -116,7 +115,7 @@ mkdir -p .agents/skills
 cp -R wanxiang-build/skills/wanxiang-build .agents/skills/
 ```
 
-如果目标项目本身就是这个仓库，保持现有的 `skills/wanxiang-build` 目录即可；发布到 GitHub 时不要只上传 `SKILL.md`，`data/`、`references/`、`scripts/` 和 `agents/openai.yaml` 都是运行所需的一部分。
+如果目标项目本身就是这个仓库，保持现有的 `skills/wanxiang-build` 目录即可；发布到 GitHub 时不要只上传 `SKILL.md`，完整的 `data/`、`references/` 和 `agents/openai.yaml` 也需要一并保留。
 
 ### 全局安装（可选）
 
@@ -137,20 +136,15 @@ cp -R wanxiang-build/skills/wanxiang-build .agents/skills/
 1. **保留旧快照。** 先用 Git 建立版本分支或标签，或者复制一份旧的 `data/` 目录，方便回溯旧报告所依据的规则。
 2. **覆盖原始资料。** 将新版本中发生变化的规则、英雄、效果牌、天赋、装备、棋手、成长、技能、召唤物和伤害抗性文件，逐个覆盖到 `data/documents/`。保持 UTF-8 编码、原有文件名和 JSON 字段结构；若文件新增或删除，确认后再同步目录，避免留下已废弃的旧记录。
 3. **按需更新参考阵容。** 只有官方或社区构筑资料发生变化时，才替换 `data/references/` 中对应的 JSON。参考阵容不会改变规则优先级，也不会自动成为推荐答案。
-4. **检查目录与脚本。** 如果新版本改变了文件名或 JSON 顶层结构，需要同步修改 `source_config.json` 或 `scripts/lookup.py` 中的资料清单；仅更新内容和同名字段时通常不需要改脚本。分析流程变更才修改 `references/`，不要把某个版本的数值写进分析方法。
-5. **记录版本指纹。** 更新 `skills/wanxiang-build/references/sources.md` 的快照日期、变更说明和适用范围，然后运行 `lookup.py inventory` 保存新的文件数量与 SHA-256 指纹。
-6. **完成校验后再重评。** 运行结构校验和几个代表性查询；凡是涉及被改规则、卡牌、棋手、卡池、经济或战斗公式的旧报告，都要重新核算路径和评分，不能只更新报告日期。
+4. **检查资料结构。** 如果新版本改变了文件名或 JSON 顶层结构，需要同步 Skill 的内部资料映射；仅更新内容和同名字段时通常不需要调整内部实现。分析流程变更才修改 `references/`，不要把某个版本的数值写进分析方法。
+5. **记录版本指纹。** 更新 `skills/wanxiang-build/references/sources.md` 的快照日期、变更说明和适用范围，并保存新的文件数量与 SHA-256 指纹。
+6. **完成校验后再重评。** 运行项目提供的内部结构与资料校验；凡是涉及被改规则、卡牌、棋手、卡池、经济或战斗公式的旧报告，都要重新核算路径和评分，不能只更新报告日期。
 
 PowerShell 示例（假设 `new-version/data/documents/` 是一份已核对的新资料目录；若它不是完整目录，请改为逐个复制变更文件）：
 
 ```powershell
 $skill = ".\skills\wanxiang-build"
 Copy-Item -Recurse -Force .\new-version\data\documents\* "$skill\data\documents\"
-
-python -X utf8 "$skill\scripts\lookup.py" inventory
-python -X utf8 "$skill\scripts\lookup.py" query --kind hero --name 朵莉亚
-# 将 <path-to-skill-creator> 换成本机 skill-creator 的实际路径
-python -X utf8 <path-to-skill-creator>\scripts\quick_validate.py $skill
 ```
 
 macOS / Linux 示例：
@@ -158,36 +152,9 @@ macOS / Linux 示例：
 ```bash
 skill=./skills/wanxiang-build
 cp -Rf new-version/data/documents/* "$skill/data/documents/"
-
-python3 "$skill/scripts/lookup.py" inventory
-python3 "$skill/scripts/lookup.py" query --kind hero --name 朵莉亚
-# 将 <path-to-skill-creator> 换成本机 skill-creator 的实际路径
-python3 <path-to-skill-creator>/scripts/quick_validate.py "$skill"
 ```
 
-如果新版本资料不再使用当前文件名或字段，请先调整 `lookup.py` 的映射并验证查询结果，再开始阵容研究。更新过程不会自动迁移历史评分；历史报告应保留原版本标记，新报告明确引用新的资料快照。
-
-## 辅助脚本
-
-脚本不自动选阵容，也不模拟完整战斗。它们用于减少查找和算术错误：
-
-```bash
-cd skills/wanxiang-build
-
-# 查看内置资料文件、记录数量和 SHA-256 指纹
-python -X utf8 scripts/lookup.py inventory
-
-# 按名称查询英雄完整父记录
-python -X utf8 scripts/lookup.py query --kind hero --name 朵莉亚
-
-# 跨资料全文检索关键词
-python -X utf8 scripts/lookup.py query --kind effect --contains 保护
-
-# 校验并汇总 Agent 已填写的评分账本
-python -X utf8 scripts/score.py path/to/评分账本.json
-```
-
-`lookup.py` 默认从 Skill 自带的 `data/` 读取，也可以用 `--root` 指定一个同时包含 `documents/` 和阵容 `references/` 的外部资料根目录。`score.py` 只校验评分格式、证据引用和加权汇总，不判断卡牌强弱或评分是否正确。
+如果新版本资料不再使用当前文件名或字段，请先调整 Skill 的内部资料映射并完成校验，再开始阵容研究。更新过程不会自动迁移历史评分；历史报告应保留原版本标记，新报告明确引用新的资料快照。
 
 ## 评分口径
 
@@ -210,4 +177,4 @@ python -X utf8 scripts/score.py path/to/评分账本.json
 
 ## 参与改进
 
-欢迎提交新的规则补充、可复核的卡牌数据、实战局面和失败案例。修改规则时请同时更新对应的 `data/documents/` 原文、`references/` 分析约束和版本说明；修改脚本后请用真实资料运行一次。提交阵容研究时，请保留假设、逐回合路径和评分证据，避免只提交一个没有运营过程的终局名单。
+欢迎提交新的规则补充、可复核的卡牌数据、实战局面和失败案例。修改规则时请同时更新对应的 `data/documents/` 原文、`references/` 分析约束和版本说明；修改内部辅助逻辑后请用真实资料运行一次校验。提交阵容研究时，请保留假设、逐回合路径和评分证据，避免只提交一个没有运营过程的终局名单。
