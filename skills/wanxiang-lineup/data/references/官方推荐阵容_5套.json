@@ -1,0 +1,2349 @@
+{
+ "1": {
+  "key": "1",
+  "name": "三分登场流",
+  "tag": "官方",
+  "lordList": [
+   {
+    "name": "白歌",
+    "desc": "白歌在合成4次后可获得场上的英雄牌，能加速英雄觉醒。秘技牌能复制需要的卡牌，技能简单实用。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/9c12aa4a489bc381df3a20bc629bc353.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/23f289306b08caf285a11a07e5af9c16.png"
+   },
+   {
+    "name": "常小娥",
+    "desc": "使用技能每回合稳定提升等级，操作简单，发挥稳定。秘技牌需要等上阵4名英雄后再使用。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/866fffffaa7ec8292ecf580131c177f0.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/1c2b58fb532648408a13675d5085b236.png"
+   },
+   {
+    "name": "马可",
+    "desc": "打出4张3阶及以下英雄能获得宝藏牌，这套阵容前期低阶英雄多，比较适合搭配马可。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/480a6de8b34a545ff45073cdd9e5fe58.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/00ecbcba61354e4f951bd097157615b1.png"
+   }
+  ],
+  "heroList": [
+   {
+    "name": "小乔",
+    "level": 1,
+    "cardQuality": 4,
+    "type": 0,
+    "equipList": [],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 1,
+    "positionZ": 0,
+    "relationID": "309"
+   },
+   {
+    "name": "貂蝉",
+    "level": 1,
+    "cardQuality": 3,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 1,
+    "positionZ": 2,
+    "relationID": "309"
+   },
+   {
+    "name": "蔡文姬",
+    "level": 1,
+    "cardQuality": 2,
+    "type": 3,
+    "equipList": [],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 2,
+    "positionZ": 2,
+    "relationID": "309"
+   },
+   {
+    "name": "赵云",
+    "level": 1,
+    "cardQuality": 2,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 3,
+    "positionZ": 2,
+    "relationID": "309"
+   },
+   {
+    "name": "周瑜",
+    "level": 1,
+    "cardQuality": 5,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 2,
+    "positionZ": 3,
+    "relationID": "309"
+   },
+   {
+    "name": "吕布",
+    "level": 1,
+    "cardQuality": 5,
+    "type": 1,
+    "equipList": [
+     {
+      "name": "冥王"
+     },
+     {
+      "name": "无尽巨剑"
+     },
+     {
+      "name": "不死鸟之眼"
+     }
+    ],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 3,
+    "positionZ": 3,
+    "relationID": "309"
+   },
+   {
+    "name": "曹操",
+    "level": 1,
+    "cardQuality": 2,
+    "type": 0,
+    "equipList": [],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 4,
+    "positionZ": 3,
+    "relationID": "309"
+   }
+  ],
+  "author": {
+   "avatar": "https://game-1255653016.file.myqcloud.com/manage/custom_os_common/b3e7f199c58be91b6742fb27f98d324a.png",
+   "name": "王者万象棋官方",
+   "tagUrl": "",
+   "typeLabel": "",
+   "userID": "0",
+   "roleID": "0"
+  },
+  "createTimestamp": "",
+  "useNum": 0,
+  "brief": "这套阵容很多英雄为低阶，养成难度低，适合新手使用。",
+  "positionDesc": "",
+  "equipDesc": "",
+  "operationDetails": [
+   {
+    "index": 1,
+    "beginRound": 1,
+    "endRound": 3,
+    "mainHeroList": [
+     {
+      "name": "孙尚香",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "309"
+     },
+     {
+      "name": "蔡文姬",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 2,
+      "relationID": "309"
+     },
+     {
+      "name": "赵云",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 2,
+      "relationID": "309"
+     },
+     {
+      "name": "曹操",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 4,
+      "positionZ": 3,
+      "relationID": "309"
+     }
+    ],
+    "subHeroList": [
+     {
+      "name": "弈星",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "307"
+     },
+     {
+      "name": "牛魔",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "307"
+     }
+    ],
+    "desc": "回合1优先买孙尚香，次选牛魔弈星。回合2升2级，优先购买阵容必备英雄。找到蔡文姬后，再使用三分英雄牌都能提升等级。推荐搭配赵云和曹操，曹操每回合固定触发赵云卡牌效果提升战力。第一次拍卖优先选择蔡文姬、曹操、赵云。"
+   },
+   {
+    "index": 2,
+    "beginRound": 4,
+    "endRound": 10,
+    "mainHeroList": [
+     {
+      "name": "孙尚香",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "309"
+     },
+     {
+      "name": "小乔",
+      "level": 1,
+      "cardQuality": 4,
+      "type": 3,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "309"
+     },
+     {
+      "name": "貂蝉",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 2,
+      "relationID": "309"
+     },
+     {
+      "name": "蔡文姬",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 2,
+      "relationID": "309"
+     },
+     {
+      "name": "赵云",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 2,
+      "relationID": "309"
+     },
+     {
+      "name": "曹操",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 4,
+      "positionZ": 3,
+      "relationID": "309"
+     }
+    ],
+    "subHeroList": [
+     {
+      "name": "甄姬",
+      "level": 1,
+      "cardQuality": 4,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "309"
+     }
+    ],
+    "desc": "回合4-5升3级，继续找蔡文姬和曹操并优先觉醒。3级后可养貂蝉当输出。回合6-7升4级，找核心英雄小乔，找到后不断使用【登场】英雄牌，触发小乔的卡牌效果来增加整体英雄等级，找到小乔后升5级。第二次拍卖优先选择吕布、周瑜。"
+   },
+   {
+    "index": 3,
+    "beginRound": 11,
+    "endRound": 14,
+    "mainHeroList": [
+     {
+      "name": "赵云",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 2,
+      "relationID": "309"
+     },
+     {
+      "name": "曹操",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 4,
+      "positionZ": 3,
+      "relationID": "309"
+     },
+     {
+      "name": "蔡文姬",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 3,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 2,
+      "relationID": "309"
+     },
+     {
+      "name": "貂蝉",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 2,
+      "relationID": "309"
+     },
+     {
+      "name": "小乔",
+      "level": 1,
+      "cardQuality": 4,
+      "type": 0,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "309"
+     },
+     {
+      "name": "吕布",
+      "level": 1,
+      "cardQuality": 5,
+      "type": 1,
+      "equipList": [
+       {
+        "name": "冥王"
+       },
+       {
+        "name": "无尽巨剑"
+       },
+       {
+        "name": "不死鸟之眼"
+       }
+      ],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 3,
+      "relationID": "309"
+     },
+     {
+      "name": "周瑜",
+      "level": 1,
+      "cardQuality": 5,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 3,
+      "relationID": "309"
+     }
+    ],
+    "subHeroList": [
+     {
+      "name": "甄姬",
+      "level": 1,
+      "cardQuality": 4,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "309"
+     }
+    ],
+    "desc": "5级后主要找吕布，吕布吸血效果能大幅增加英雄的生存能力，吕布也是一个强力输出英雄，后期可以培养他。如果有换帅可以把低阶英雄的等级换给吕布。有遗志和传承对孙尚香使用，孙尚香输出低后期建议换掉。"
+   }
+  ],
+  "recommendLords": [],
+  "interactiveData": {
+   "score": "9.9",
+   "scoreNum": 19,
+   "exposedComments": null,
+   "commentNum": 41,
+   "likeNum": 148,
+   "isLiked": false,
+   "canScore": true,
+   "infoID": "9000000001",
+   "userScore": 0,
+   "scores": [
+    0,
+    0,
+    0,
+    1,
+    18
+   ]
+  },
+  "talentCardList": [],
+  "effectCardList": [],
+  "talentCardDesc": "",
+  "effectCardDesc": "",
+  "tags": [
+   "官方",
+   "新手"
+  ],
+  "video": null,
+  "seasonId": 1
+ },
+ "2": {
+  "key": "2",
+  "name": "日落海整备流",
+  "tag": "官方",
+  "lordList": [
+   {
+    "name": "香香",
+    "desc": "香香可以主动攻击敌人，前期非常强势。拥有超过10级的1-3阶英雄越多香香攻击力越高，这套阵容低阶英雄多很适合香香。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/4762363802b278dd3276e83b565f205a.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/bbf1556555337b9bb164b96073e42f01.png"
+   },
+   {
+    "name": "闹闹",
+    "desc": "派对泡泡选日落海，每回合使用棋手技能稳定拿一张日落海英雄牌，能快速凑齐阵容。秘技牌推荐4级/5级再用，补齐高阶英雄。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/3f521660fff02cb60ecb7c6d3a5602e6.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/2c9ff119168a9ab2344e7324723d8021.png"
+   },
+   {
+    "name": "常小娥",
+    "desc": "使用技能每回合稳定提升等级，操作简单，发挥稳定。秘技牌需要等上阵4名英雄后再使用。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/866fffffaa7ec8292ecf580131c177f0.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/1c2b58fb532648408a13675d5085b236.png"
+   }
+  ],
+  "heroList": [
+   {
+    "name": "安琪拉",
+    "level": 1,
+    "cardQuality": 3,
+    "type": 1,
+    "equipList": [
+     {
+      "name": "法源之杯"
+     },
+     {
+      "name": "虚无法杖"
+     },
+     {
+      "name": "炽热支配者"
+     }
+    ],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 0,
+    "positionZ": 0,
+    "relationID": "314"
+   },
+   {
+    "name": "朵莉亚",
+    "level": 1,
+    "cardQuality": 3,
+    "type": 3,
+    "equipList": [],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 1,
+    "positionZ": 0,
+    "relationID": "314"
+   },
+   {
+    "name": "米莱狄",
+    "level": 1,
+    "cardQuality": 2,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 2,
+    "positionZ": 0,
+    "relationID": "314"
+   },
+   {
+    "name": "海诺",
+    "level": 1,
+    "cardQuality": 5,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 6,
+    "positionZ": 0,
+    "relationID": "314"
+   },
+   {
+    "name": "狂铁",
+    "level": 1,
+    "cardQuality": 1,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 2,
+    "positionZ": 3,
+    "relationID": "314"
+   },
+   {
+    "name": "亚连",
+    "level": 1,
+    "cardQuality": 2,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 3,
+    "positionZ": 3,
+    "relationID": "314"
+   },
+   {
+    "name": "雅典娜",
+    "level": 1,
+    "cardQuality": 4,
+    "type": 2,
+    "equipList": [
+     {
+      "name": "不死鸟之眼"
+     },
+     {
+      "name": "霸者重铠"
+     },
+     {
+      "name": "近卫荣耀"
+     }
+    ],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 4,
+    "positionZ": 3,
+    "relationID": "314"
+   }
+  ],
+  "author": {
+   "avatar": "https://game-1255653016.file.myqcloud.com/manage/custom_os_common/b3e7f199c58be91b6742fb27f98d324a.png",
+   "name": "王者万象棋官方",
+   "tagUrl": "",
+   "typeLabel": "",
+   "userID": "0",
+   "roleID": "0"
+  },
+  "createTimestamp": "",
+  "useNum": 0,
+  "brief": "以培养阿科米亚核心为主的阵容，操作简单，凑齐阵容英雄后全员自动成长。",
+  "positionDesc": "",
+  "equipDesc": "",
+  "operationDetails": [
+   {
+    "index": 1,
+    "beginRound": 1,
+    "endRound": 2,
+    "mainHeroList": [
+     {
+      "name": "狂铁",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 3,
+      "relationID": "314"
+     }
+    ],
+    "subHeroList": [
+     {
+      "name": "弈星",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "307"
+     },
+     {
+      "name": "牛魔",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "307"
+     }
+    ],
+    "desc": "开局买一张狂铁，狂铁每回合自动成长适合前期过渡，没有狂铁可以用牛魔或弈星过渡。回合2升2级。"
+   },
+   {
+    "index": 2,
+    "beginRound": 3,
+    "endRound": 7,
+    "mainHeroList": [
+     {
+      "name": "狂铁",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 3,
+      "relationID": "314"
+     },
+     {
+      "name": "米莱狄",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 0,
+      "relationID": "314"
+     },
+     {
+      "name": "亚连",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 3,
+      "relationID": "314"
+     },
+     {
+      "name": "安琪拉",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 1,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "314"
+     },
+     {
+      "name": "朵莉亚",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 3,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "314"
+     }
+    ],
+    "subHeroList": [],
+    "desc": "回合3-4优先购买米莱狄和亚连。第一次拍卖优先选朵莉亚和安琪拉。回合4升3级（第一次拍卖后），优先找朵莉亚，其它位置全部用带【整备】关键词的英雄，核心输出选择安琪拉。回合5-7继续寻找阵容英雄牌合成，优先觉醒朵莉亚和安琪拉。"
+   },
+   {
+    "index": 3,
+    "beginRound": 8,
+    "endRound": 14,
+    "mainHeroList": [
+     {
+      "name": "狂铁",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 3,
+      "relationID": "314"
+     },
+     {
+      "name": "米莱狄",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 0,
+      "relationID": "314"
+     },
+     {
+      "name": "亚连",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 3,
+      "relationID": "314"
+     },
+     {
+      "name": "安琪拉",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 1,
+      "equipList": [
+       {
+        "name": "法源之杯"
+       },
+       {
+        "name": "虚无法杖"
+       },
+       {
+        "name": "炽热支配者"
+       }
+      ],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "314"
+     },
+     {
+      "name": "朵莉亚",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 3,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "314"
+     },
+     {
+      "name": "雅典娜",
+      "level": 1,
+      "cardQuality": 4,
+      "type": 2,
+      "equipList": [
+       {
+        "name": "不死鸟之眼"
+       },
+       {
+        "name": "霸者重铠"
+       },
+       {
+        "name": "近卫荣耀"
+       }
+      ],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 4,
+      "positionZ": 3,
+      "relationID": "314"
+     },
+     {
+      "name": "海诺",
+      "level": 1,
+      "cardQuality": 5,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 6,
+      "positionZ": 0,
+      "relationID": "314"
+     }
+    ],
+    "subHeroList": [
+     {
+      "name": "露娜",
+      "level": 1,
+      "cardQuality": 5,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "314"
+     }
+    ],
+    "desc": "第二次拍卖优先选海诺和雅典娜。回合8-11将棋手升到5级，主要找海诺和雅典娜，海诺在每次阿科米亚核心提升等级时都可提供额外等级。"
+   }
+  ],
+  "recommendLords": [],
+  "interactiveData": {
+   "score": "10.0",
+   "scoreNum": 17,
+   "exposedComments": null,
+   "commentNum": 29,
+   "likeNum": 109,
+   "isLiked": false,
+   "canScore": true,
+   "infoID": "9000000002",
+   "userScore": 0,
+   "scores": [
+    0,
+    0,
+    0,
+    0,
+    17
+   ]
+  },
+  "talentCardList": [],
+  "effectCardList": [],
+  "talentCardDesc": "",
+  "effectCardDesc": "",
+  "tags": [
+   "官方",
+   "新手"
+  ],
+  "video": null,
+  "seasonId": 1
+ },
+ "3": {
+  "key": "3",
+  "name": "大河图腾流",
+  "tag": "官方",
+  "lordList": [
+   {
+    "name": "香香",
+    "desc": "大河流域的低阶英雄能够为香香提供可观的攻击力加成，帮助她在前期打出稳定且强力的输出，后期香香也有很强的作战能力。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/4762363802b278dd3276e83b565f205a.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/bbf1556555337b9bb164b96073e42f01.png"
+   },
+   {
+    "name": "庄小鱼",
+    "desc": "庄小鱼秘技卡能够帮助玩家更快找到大河流域的高阶英雄，提升大河图腾流的阵容强度与过渡效率。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/40fc6661d736280edf6d13be2be3be82.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/6f7a4bbef658947bb7ff48f431883dc4.png"
+   },
+   {
+    "name": "瑶妹",
+    "desc": "瑶妹的小鹿能提供稳定前排，配合图腾流前期不俗的战力来取得胜利；后期小鹿的等级奉献还能进一步提升图腾全队的等级。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/02e4f37d6cdcaecb22bada74dde8d872.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/44ffbd28ad3da3816bd389432be33732.png"
+   }
+  ],
+  "heroList": [
+   {
+    "name": "虞姬",
+    "level": 1,
+    "cardQuality": 2,
+    "type": 3,
+    "equipList": [],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 0,
+    "positionZ": 0,
+    "relationID": "321"
+   },
+   {
+    "name": "敖隐",
+    "level": 1,
+    "cardQuality": 5,
+    "type": 1,
+    "equipList": [
+     {
+      "name": "破晓"
+     },
+     {
+      "name": "寒霜侵袭"
+     },
+     {
+      "name": "自然法杖"
+     }
+    ],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 1,
+    "positionZ": 0,
+    "relationID": "321"
+   },
+   {
+    "name": "少司缘",
+    "level": 1,
+    "cardQuality": 3,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 0,
+    "positionZ": 1,
+    "relationID": "321"
+   },
+   {
+    "name": "张良",
+    "level": 1,
+    "cardQuality": 3,
+    "type": 0,
+    "equipList": [],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 1,
+    "positionZ": 1,
+    "relationID": "321"
+   },
+   {
+    "name": "鬼谷子",
+    "level": 1,
+    "cardQuality": 2,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 2,
+    "positionZ": 3,
+    "relationID": "321"
+   },
+   {
+    "name": "大司命",
+    "level": 1,
+    "cardQuality": 4,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 3,
+    "positionZ": 3,
+    "relationID": "321"
+   },
+   {
+    "name": "东皇太一",
+    "level": 1,
+    "cardQuality": 5,
+    "type": 2,
+    "equipList": [
+     {
+      "name": "不死鸟之眼"
+     },
+     {
+      "name": "霸者重铠"
+     },
+     {
+      "name": "近卫荣耀"
+     }
+    ],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 4,
+    "positionZ": 3,
+    "relationID": "321"
+   }
+  ],
+  "author": {
+   "avatar": "https://game-1255653016.file.myqcloud.com/manage/custom_os_common/b3e7f199c58be91b6742fb27f98d324a.png",
+   "name": "王者万象棋官方",
+   "tagUrl": "",
+   "typeLabel": "",
+   "userID": "0",
+   "roleID": "0"
+  },
+  "createTimestamp": "",
+  "useNum": 0,
+  "brief": "以敖隐为核心输出的阵容，操作简单，凑齐阵容英雄后全员自动成长。",
+  "positionDesc": "",
+  "equipDesc": "",
+  "operationDetails": [
+   {
+    "index": 1,
+    "beginRound": 1,
+    "endRound": 3,
+    "mainHeroList": [
+     {
+      "name": "干将莫邪",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 6,
+      "positionZ": 0,
+      "relationID": "321"
+     },
+     {
+      "name": "虞姬",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "321"
+     },
+     {
+      "name": "鬼谷子",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 3,
+      "relationID": "321"
+     }
+    ],
+    "subHeroList": [
+     {
+      "name": "弈星",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "307"
+     },
+     {
+      "name": "牛魔",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "307"
+     }
+    ],
+    "desc": "回合1可选干将、弈星、牛魔过渡。回合2升2级，回合3-4主要找虞姬和鬼谷子，鬼谷子能召唤图腾，配合虞姬的卡牌效果提升等级。第一次拍卖优先选少司缘和张良。"
+   },
+   {
+    "index": 2,
+    "beginRound": 4,
+    "endRound": 7,
+    "mainHeroList": [
+     {
+      "name": "虞姬",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "321"
+     },
+     {
+      "name": "鬼谷子",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 3,
+      "relationID": "321"
+     },
+     {
+      "name": "张良",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 3,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 1,
+      "relationID": "321"
+     },
+     {
+      "name": "少司缘",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 1,
+      "relationID": "321"
+     }
+    ],
+    "subHeroList": [
+     {
+      "name": "瑶",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "321"
+     },
+     {
+      "name": "云中君",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "321"
+     }
+    ],
+    "desc": "回合4-5升3级，升级后主要找张良和少司缘，开团英雄可以配合张良卡牌效果升级，少司缘召唤的图腾也能配合虞姬的卡牌效果升级。可以暂时用瑶和云中君过渡，后期再换。回合6-7继续寻找阵容英雄，优先觉醒张良和虞姬。第二次拍卖优先拍敖隐。"
+   },
+   {
+    "index": 3,
+    "beginRound": 8,
+    "endRound": 14,
+    "mainHeroList": [
+     {
+      "name": "虞姬",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 3,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "321"
+     },
+     {
+      "name": "敖隐",
+      "level": 1,
+      "cardQuality": 5,
+      "type": 1,
+      "equipList": [
+       {
+        "name": "破晓"
+       },
+       {
+        "name": "寒霜侵袭"
+       },
+       {
+        "name": "自然法杖"
+       }
+      ],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "321"
+     },
+     {
+      "name": "少司缘",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 1,
+      "relationID": "321"
+     },
+     {
+      "name": "张良",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 1,
+      "relationID": "321"
+     },
+     {
+      "name": "鬼谷子",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 3,
+      "relationID": "321"
+     },
+     {
+      "name": "大司命",
+      "level": 1,
+      "cardQuality": 4,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 3,
+      "relationID": "321"
+     },
+     {
+      "name": "东皇太一",
+      "level": 1,
+      "cardQuality": 5,
+      "type": 2,
+      "equipList": [
+       {
+        "name": "不死鸟之眼"
+       },
+       {
+        "name": "霸者重铠"
+       },
+       {
+        "name": "近卫荣耀"
+       }
+      ],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 4,
+      "positionZ": 3,
+      "relationID": "321"
+     }
+    ],
+    "subHeroList": [
+     {
+      "name": "瑶",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "321"
+     },
+     {
+      "name": "云中君",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "321"
+     }
+    ],
+    "desc": "回合8升4级，继续补充图腾英雄和开团英雄。回合12升5级，升级后主要找敖隐，场上图腾全部放最后排战斗中持续给敖隐加等级。东皇的卡牌效果使图腾不会被优先攻击，搭配敖隐让敖隐在战斗中稳定升级。"
+   }
+  ],
+  "recommendLords": [],
+  "interactiveData": {
+   "score": "9.6",
+   "scoreNum": 5,
+   "exposedComments": null,
+   "commentNum": 14,
+   "likeNum": 47,
+   "isLiked": false,
+   "canScore": true,
+   "infoID": "9000000003",
+   "userScore": 0,
+   "scores": [
+    0,
+    0,
+    0,
+    1,
+    4
+   ]
+  },
+  "talentCardList": [],
+  "effectCardList": [],
+  "talentCardDesc": "",
+  "effectCardDesc": "",
+  "tags": [
+   "官方",
+   "新手"
+  ],
+  "video": null,
+  "seasonId": 1
+ },
+ "4": {
+  "key": "4",
+  "name": "河洛古币流",
+  "tag": "官方",
+  "lordList": [
+   {
+    "name": "姜导",
+    "desc": "姜导适配养单C的阵容，能增加英雄等级和提供吸血。技能给百里玄策使用。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/e9e64c58aba915e2e259b0d7871b642d.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/6425e2fdd38ee688bf53d1e1b54ecd8a.png"
+   },
+   {
+    "name": "闹闹",
+    "desc": "派对泡泡选河洛，每回合使用棋手技能稳定拿一张河洛英雄牌，能快速凑齐阵容。秘技牌推荐4级/5级再用，补齐高阶英雄。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/3f521660fff02cb60ecb7c6d3a5602e6.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/2c9ff119168a9ab2344e7324723d8021.png"
+   },
+   {
+    "name": "常小娥",
+    "desc": "使用技能每回合稳定提升等级，操作简单，发挥稳定。秘技牌需要等上阵4名英雄后再使用。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/866fffffaa7ec8292ecf580131c177f0.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/1c2b58fb532648408a13675d5085b236.png"
+   }
+  ],
+  "heroList": [
+   {
+    "name": "百里玄策",
+    "level": 1,
+    "cardQuality": 2,
+    "type": 1,
+    "equipList": [
+     {
+      "name": "影牙"
+     },
+     {
+      "name": "无尽巨剑"
+     },
+     {
+      "name": "炽热支配者"
+     }
+    ],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 0,
+    "positionZ": 0,
+    "relationID": "319"
+   },
+   {
+    "name": "李元芳",
+    "level": 1,
+    "cardQuality": 1,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 1,
+    "positionZ": 0,
+    "relationID": "319"
+   },
+   {
+    "name": "上官婉儿",
+    "level": 1,
+    "cardQuality": 4,
+    "type": 3,
+    "equipList": [],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 6,
+    "positionZ": 0,
+    "relationID": "319"
+   },
+   {
+    "name": "太乙真人",
+    "level": 1,
+    "cardQuality": 4,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 0,
+    "positionZ": 1,
+    "relationID": "307"
+   },
+   {
+    "name": "盾山",
+    "level": 1,
+    "cardQuality": 2,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 2,
+    "positionZ": 3,
+    "relationID": "319"
+   },
+   {
+    "name": "钟馗",
+    "level": 1,
+    "cardQuality": 3,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 3,
+    "positionZ": 3,
+    "relationID": "319"
+   },
+   {
+    "name": "程咬金",
+    "level": 1,
+    "cardQuality": 3,
+    "type": 2,
+    "equipList": [
+     {
+      "name": "不祥征兆"
+     },
+     {
+      "name": "聚灵水晶"
+     },
+     {
+      "name": "不死鸟之眼"
+     }
+    ],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 4,
+    "positionZ": 3,
+    "relationID": "319"
+   }
+  ],
+  "author": {
+   "avatar": "https://game-1255653016.file.myqcloud.com/manage/custom_os_common/b3e7f199c58be91b6742fb27f98d324a.png",
+   "name": "王者万象棋官方",
+   "tagUrl": "",
+   "typeLabel": "",
+   "userID": "0",
+   "roleID": "0"
+  },
+  "createTimestamp": "",
+  "useNum": 0,
+  "brief": "以百里玄策为单核的阵容，随着百里玄策的等级提升，后期非常强力。",
+  "positionDesc": "",
+  "equipDesc": "",
+  "operationDetails": [
+   {
+    "index": 1,
+    "beginRound": 1,
+    "endRound": 4,
+    "mainHeroList": [
+     {
+      "name": "李元芳",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "319"
+     },
+     {
+      "name": "盾山",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 3,
+      "relationID": "319"
+     },
+     {
+      "name": "苏烈",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 3,
+      "relationID": "319"
+     }
+    ],
+    "subHeroList": [],
+    "desc": "回合1购买李元芳和苏烈巩固战力，回合2升2级。回合3-4刷新商店，购买百里玄策、盾山，用古币拉高玄策等级。第一次拍卖优先拍百里玄策，其次程咬金和盾山。"
+   },
+   {
+    "index": 2,
+    "beginRound": 5,
+    "endRound": 8,
+    "mainHeroList": [
+     {
+      "name": "李元芳",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "319"
+     },
+     {
+      "name": "百里玄策",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 1,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "319"
+     },
+     {
+      "name": "盾山",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 3,
+      "relationID": "319"
+     },
+     {
+      "name": "程咬金",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 2,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 4,
+      "positionZ": 3,
+      "relationID": "319"
+     },
+     {
+      "name": "钟馗",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 3,
+      "relationID": "319"
+     }
+    ],
+    "subHeroList": [
+     {
+      "name": "铠",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "319"
+     }
+    ],
+    "desc": "回合4-5提升棋手到3级，继续刷新商店，优先觉醒百里玄策，再补充程咬金、钟馗。程咬金和盾山可以产出古币，给玄策使用。回合6-8将棋手升到4级，只购买必备英雄增强战力，其余能量留着升级。第二次拍卖优先拍太乙真人和上官婉儿。"
+   },
+   {
+    "index": 3,
+    "beginRound": 9,
+    "endRound": 14,
+    "mainHeroList": [
+     {
+      "name": "李元芳",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "319"
+     },
+     {
+      "name": "百里玄策",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 1,
+      "equipList": [
+       {
+        "name": "影牙"
+       },
+       {
+        "name": "无尽巨剑"
+       },
+       {
+        "name": "炽热支配者"
+       }
+      ],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "319"
+     },
+     {
+      "name": "盾山",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 3,
+      "relationID": "319"
+     },
+     {
+      "name": "程咬金",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 2,
+      "equipList": [
+       {
+        "name": "不祥征兆"
+       },
+       {
+        "name": "聚灵水晶"
+       },
+       {
+        "name": "不死鸟之眼"
+       }
+      ],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 4,
+      "positionZ": 3,
+      "relationID": "319"
+     },
+     {
+      "name": "钟馗",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 3,
+      "relationID": "319"
+     },
+     {
+      "name": "太乙真人",
+      "level": 1,
+      "cardQuality": 4,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 1,
+      "relationID": "307"
+     },
+     {
+      "name": "上官婉儿",
+      "level": 1,
+      "cardQuality": 4,
+      "type": 3,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 6,
+      "positionZ": 0,
+      "relationID": "319"
+     }
+    ],
+    "subHeroList": [
+     {
+      "name": "武则天",
+      "level": 1,
+      "cardQuality": 5,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "319"
+     }
+    ],
+    "desc": "回合9-11提升棋手到5级，主要搜太乙真人，太乙可以复活玄策增加容错。上官婉儿每回合固定对阵容英雄使用古币增加整体战力。优先觉醒太乙和钟馗。"
+   }
+  ],
+  "recommendLords": [],
+  "interactiveData": {
+   "score": "9.0",
+   "scoreNum": 2,
+   "exposedComments": null,
+   "commentNum": 7,
+   "likeNum": 16,
+   "isLiked": false,
+   "canScore": true,
+   "infoID": "9000000004",
+   "userScore": 0,
+   "scores": [
+    0,
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  "talentCardList": [],
+  "effectCardList": [],
+  "talentCardDesc": "",
+  "effectCardDesc": "",
+  "tags": [
+   "官方",
+   "新手"
+  ],
+  "video": null,
+  "seasonId": 1
+ },
+ "5": {
+  "key": "5",
+  "name": "逐鹿战术牌流",
+  "tag": "官方",
+  "lordList": [
+   {
+    "name": "白歌",
+    "desc": "白歌的技能能够提供大量的同名卡，帮助玩家进行更多的英雄合成，并由此获得更多战术牌。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/9c12aa4a489bc381df3a20bc629bc353.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/23f289306b08caf285a11a07e5af9c16.png"
+   },
+   {
+    "name": "小妲己",
+    "desc": "这套阵容主要靠使用效果牌时，触发芈月的卡牌效果培养英雄，小妲己能提供更多的效果牌，非常适合有芈月的阵容。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/9f94a44d6dde6fa19ef9b572094ca9e9.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/b82a71222d5d34eb5dd4763c933ec64e.png"
+   },
+   {
+    "name": "闹闹",
+    "desc": "派对泡泡选逐鹿，每回合使用棋手技能稳定拿一张逐鹿英雄牌，能快速凑齐阵容。秘技牌推荐4级/5级再用，补齐高阶英雄。",
+    "skillList": [
+     {
+      "name": "技能"
+     },
+     {
+      "name": "秘技"
+     },
+     {
+      "name": "专属"
+     }
+    ],
+    "banShenImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_D1/3f521660fff02cb60ecb7c6d3a5602e6.png",
+    "bgImg": "https://game-os-cos.kohsocialapp.qq.com/manage/custom_os_lord_bgImg/2c9ff119168a9ab2344e7324723d8021.png"
+   }
+  ],
+  "heroList": [
+   {
+    "name": "西施",
+    "level": 1,
+    "cardQuality": 3,
+    "type": 0,
+    "equipList": [],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 0,
+    "positionZ": 0,
+    "relationID": "320"
+   },
+   {
+    "name": "鲁班七号",
+    "level": 1,
+    "cardQuality": 5,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 1,
+    "positionZ": 0,
+    "relationID": "320"
+   },
+   {
+    "name": "蒙犽",
+    "level": 1,
+    "cardQuality": 4,
+    "type": 1,
+    "equipList": [
+     {
+      "name": "无尽巨剑"
+     },
+     {
+      "name": "炽热支配者"
+     },
+     {
+      "name": "法源之杯"
+     }
+    ],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 6,
+    "positionZ": 0,
+    "relationID": "320"
+   },
+   {
+    "name": "老夫子",
+    "level": 1,
+    "cardQuality": 3,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 2,
+    "positionZ": 2,
+    "relationID": "320"
+   },
+   {
+    "name": "芈月",
+    "level": 1,
+    "cardQuality": 2,
+    "type": 3,
+    "equipList": [],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 3,
+    "positionZ": 2,
+    "relationID": "320"
+   },
+   {
+    "name": "白起",
+    "level": 1,
+    "cardQuality": 3,
+    "type": 2,
+    "equipList": [
+     {
+      "name": "不祥征兆"
+     },
+     {
+      "name": "霸者重铠"
+     },
+     {
+      "name": "不死鸟之眼"
+     }
+    ],
+    "isEvo": true,
+    "desc": "",
+    "positionX": 2,
+    "positionZ": 3,
+    "relationID": "320"
+   },
+   {
+    "name": "庄周",
+    "level": 1,
+    "cardQuality": 4,
+    "type": 0,
+    "equipList": [],
+    "isEvo": false,
+    "desc": "",
+    "positionX": 3,
+    "positionZ": 3,
+    "relationID": "320"
+   }
+  ],
+  "author": {
+   "avatar": "https://game-1255653016.file.myqcloud.com/manage/custom_os_common/b3e7f199c58be91b6742fb27f98d324a.png",
+   "name": "王者万象棋官方",
+   "tagUrl": "",
+   "typeLabel": "",
+   "userID": "0",
+   "roleID": "0"
+  },
+  "createTimestamp": "",
+  "useNum": 0,
+  "brief": "这是用战术牌提升战力的阵容，操作比较复杂，需频繁使用卡牌，推荐有一定游戏经验后再尝试。",
+  "positionDesc": "",
+  "equipDesc": "",
+  "operationDetails": [
+   {
+    "index": 1,
+    "beginRound": 1,
+    "endRound": 3,
+    "mainHeroList": [
+     {
+      "name": "曜",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 4,
+      "positionZ": 3,
+      "relationID": "320"
+     },
+     {
+      "name": "芈月",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 2,
+      "relationID": "320"
+     }
+    ],
+    "subHeroList": [
+     {
+      "name": "弈星",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "307"
+     }
+    ],
+    "desc": "回合1优先购买曜和弈星。回合2升2级，回合3搜芈月，芈月的词条配合战术牌升级是这套阵容的核心，芈月必须觉醒。第一次拍卖优先选芈月、西施、老夫子、白起。"
+   },
+   {
+    "index": 2,
+    "beginRound": 4,
+    "endRound": 7,
+    "mainHeroList": [
+     {
+      "name": "曜",
+      "level": 1,
+      "cardQuality": 1,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 4,
+      "positionZ": 3,
+      "relationID": "320"
+     },
+     {
+      "name": "芈月",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 3,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 2,
+      "relationID": "320"
+     },
+     {
+      "name": "白起",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 2,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 3,
+      "relationID": "320"
+     },
+     {
+      "name": "老夫子",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 2,
+      "relationID": "320"
+     },
+     {
+      "name": "西施",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "320"
+     }
+    ],
+    "subHeroList": [],
+    "desc": "回合4升3级，升级后优先找西施，西施的战术牌使用次数越多越强。其它位置可搭配任意产出战术牌的英雄如白起老夫子。觉醒顺序芈月＞西施＞白起。回合4-7找齐阵容英雄后，提升棋手到4级。第二次拍卖优先选择蒙犽，其次庄周。"
+   },
+   {
+    "index": 3,
+    "beginRound": 8,
+    "endRound": 14,
+    "mainHeroList": [
+     {
+      "name": "西施",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "320"
+     },
+     {
+      "name": "鲁班七号",
+      "level": 1,
+      "cardQuality": 5,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 1,
+      "positionZ": 0,
+      "relationID": "320"
+     },
+     {
+      "name": "蒙犽",
+      "level": 1,
+      "cardQuality": 4,
+      "type": 1,
+      "equipList": [
+       {
+        "name": "无尽巨剑"
+       },
+       {
+        "name": "炽热支配者"
+       },
+       {
+        "name": "法源之杯"
+       }
+      ],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 6,
+      "positionZ": 0,
+      "relationID": "320"
+     },
+     {
+      "name": "老夫子",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 2,
+      "relationID": "320"
+     },
+     {
+      "name": "芈月",
+      "level": 1,
+      "cardQuality": 2,
+      "type": 3,
+      "equipList": [],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 2,
+      "relationID": "320"
+     },
+     {
+      "name": "白起",
+      "level": 1,
+      "cardQuality": 3,
+      "type": 2,
+      "equipList": [
+       {
+        "name": "不祥征兆"
+       },
+       {
+        "name": "霸者重铠"
+       },
+       {
+        "name": "不死鸟之眼"
+       }
+      ],
+      "isEvo": true,
+      "desc": "",
+      "positionX": 2,
+      "positionZ": 3,
+      "relationID": "320"
+     },
+     {
+      "name": "庄周",
+      "level": 1,
+      "cardQuality": 4,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 3,
+      "positionZ": 3,
+      "relationID": "320"
+     }
+    ],
+    "subHeroList": [
+     {
+      "name": "鲁班大师",
+      "level": 1,
+      "cardQuality": 5,
+      "type": 0,
+      "equipList": [],
+      "isEvo": false,
+      "desc": "",
+      "positionX": 0,
+      "positionZ": 0,
+      "relationID": "320"
+     }
+    ],
+    "desc": "回合8升优先找主C蒙犽，继续搜能提供战术牌的英雄，通过不断使用战术牌提升主C等级。回合9-11继续将棋手升到5级，上阵鲁班七号。"
+   }
+  ],
+  "recommendLords": [],
+  "interactiveData": {
+   "score": "5.0",
+   "scoreNum": 4,
+   "exposedComments": null,
+   "commentNum": 7,
+   "likeNum": 13,
+   "isLiked": false,
+   "canScore": true,
+   "infoID": "9000000005",
+   "userScore": 0,
+   "scores": [
+    2,
+    0,
+    1,
+    0,
+    1
+   ]
+  },
+  "talentCardList": [],
+  "effectCardList": [],
+  "talentCardDesc": "",
+  "effectCardDesc": "",
+  "tags": [
+   "官方",
+   "新手"
+  ],
+  "video": null,
+  "seasonId": 1
+ }
+}

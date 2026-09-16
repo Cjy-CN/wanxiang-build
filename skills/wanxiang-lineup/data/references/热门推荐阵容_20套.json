@@ -1,0 +1,4383 @@
+[
+  {
+    "key": "10004",
+    "name": "常小娥海陆空",
+    "tags": [
+      "🚀近期飙升",
+      "🔥赛季热门"
+    ],
+    "useNum": 1219231,
+    "score": "8.4",
+    "scoreNum": 34,
+    "likeNum": 2146,
+    "commentNum": 123,
+    "createTimestamp": "09-08",
+    "author": "抖音暗藏玄G",
+    "brief": "小菟每回合稳定提升等级，越到后期，强度越高的轮椅流阵容！",
+    "positionDesc": "如图所示",
+    "equipDesc": "司空震金色圣剑必备！苏烈拿肉装即可",
+    "talentCardDesc": "优先选择增加经验，能量以及等级的天赋",
+    "effectCardDesc": "后期通过不断合成给到的效果锦囊牌，优先选择传承给老虎使用，增加全员等级",
+    "lords": [
+      "常小娥"
+    ],
+    "talentCards": [
+      "人才济济",
+      "随机强化",
+      "存款利息"
+    ],
+    "effectCards": [
+      "传承"
+    ],
+    "finalHeroes": [
+      {
+        "name": "裴擒虎",
+        "quality": 3,
+        "evo": true,
+        "x": 0,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "司空震",
+        "quality": 5,
+        "evo": true,
+        "x": 3,
+        "z": 0,
+        "equip": [
+          "金色圣剑",
+          "炽热支配者",
+          "痛苦面具"
+        ]
+      },
+      {
+        "name": "苏烈",
+        "quality": 1,
+        "evo": true,
+        "x": 2,
+        "z": 3,
+        "equip": [
+          "反伤重甲",
+          "红莲炎甲"
+        ]
+      },
+      {
+        "name": "海月",
+        "quality": 5,
+        "evo": false,
+        "x": 5,
+        "z": 3,
+        "equip": []
+      }
+    ],
+    "phases": [
+      {
+        "range": "1-3",
+        "heroes": [
+          {
+            "name": "苏烈",
+            "quality": 1,
+            "evo": true,
+            "x": 2,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "上阵觉醒苏烈后不再购买苏烈，每回合记得丢小菟"
+      },
+      {
+        "range": "4-11",
+        "heroes": [
+          {
+            "name": "司空震",
+            "quality": 5,
+            "evo": false,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "裴擒虎",
+            "quality": 3,
+            "evo": false,
+            "x": 3,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "苏烈",
+            "quality": 1,
+            "evo": true,
+            "x": 2,
+            "z": 3,
+            "equip": []
+          },
+          {
+            "name": "海月",
+            "quality": 5,
+            "evo": false,
+            "x": 4,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "棋手一路直接升到六级，不使用能量刷新，升至六级后先丢金色小菟，再丢小菟"
+      },
+      {
+        "range": "12-14",
+        "heroes": [
+          {
+            "name": "裴擒虎",
+            "quality": 3,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "司空震",
+            "quality": 5,
+            "evo": true,
+            "x": 3,
+            "z": 0,
+            "equip": [
+              "金色圣剑",
+              "炽热支配者",
+              "痛苦面具"
+            ]
+          },
+          {
+            "name": "苏烈",
+            "quality": 1,
+            "evo": true,
+            "x": 2,
+            "z": 3,
+            "equip": [
+              "反伤重甲",
+              "红莲炎甲"
+            ]
+          },
+          {
+            "name": "海月",
+            "quality": 5,
+            "evo": false,
+            "x": 5,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "通过不断的合成场上英雄，找到效果卡传承，对裴擒虎使用，大幅度增加司空震等级"
+      }
+    ]
+  },
+  {
+    "key": "10005",
+    "name": "白歌三分倒转刺",
+    "tags": [
+      "🚀近期飙升",
+      "🔥赛季热门"
+    ],
+    "useNum": 1014109,
+    "score": "8.9",
+    "scoreNum": 38,
+    "likeNum": 1852,
+    "commentNum": 87,
+    "createTimestamp": "09-08",
+    "author": "抖音鲨师傅",
+    "brief": "高上限的三分玩法之一，通过场上英雄的互相联动配合白歌的棋手技能",
+    "positionDesc": "主C孙悟空，露娜，肉装在周瑜成型后优先给周瑜。",
+    "equipDesc": "孙悟空的蓝条长，需要聚灵水晶补充启动速度。露娜带魔律之刃的上限非常高。",
+    "talentCardDesc": "搜牌和血量类天赋对这套构筑都很关键，看到必拿。",
+    "effectCardDesc": "前期不用攒效果牌，后期通过锦囊出现整备和唤醒效果牌就直接拿。",
+    "lords": [
+      "白歌"
+    ],
+    "talentCards": [
+      "人才济济",
+      "紧急救援",
+      "人才市场"
+    ],
+    "effectCards": [
+      "唤醒",
+      "临阵磨枪",
+      "集体唤醒"
+    ],
+    "finalHeroes": [
+      {
+        "name": "小乔",
+        "quality": 4,
+        "evo": true,
+        "x": 0,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "甄姬",
+        "quality": 4,
+        "evo": true,
+        "x": 1,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "阿轲",
+        "quality": 3,
+        "evo": true,
+        "x": 2,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "孙悟空",
+        "quality": 4,
+        "evo": true,
+        "x": 3,
+        "z": 0,
+        "equip": [
+          "聚灵水晶",
+          "无尽巨剑",
+          "炽热支配者"
+        ]
+      },
+      {
+        "name": "露娜",
+        "quality": 5,
+        "evo": true,
+        "x": 4,
+        "z": 0,
+        "equip": [
+          "魔律之刃",
+          "贤者之书",
+          "纯净苍穹"
+        ]
+      },
+      {
+        "name": "曹操",
+        "quality": 2,
+        "evo": true,
+        "x": 1,
+        "z": 2,
+        "equip": []
+      },
+      {
+        "name": "周瑜",
+        "quality": 5,
+        "evo": true,
+        "x": 3,
+        "z": 2,
+        "equip": [
+          "不死鸟之眼",
+          "霸者重铠"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "range": "1-7",
+        "heroes": [
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "孙尚香",
+            "quality": 1,
+            "evo": false,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          }
+        ],
+        "text": "前期可以选择1回合一张孙尚香+一张弈星开局，如果其他棋手非前期连胜棋手，也可以觉醒孙尚香开局。3回合拍卖优先拿曹操/蔡文姬，7回合拍卖手牌有甄姬，优先拿露娜。如没有甄姬小乔，优先拿甄姬小乔。1-7回合主要是在升级的过程中，尽可能的保存血量。"
+      },
+      {
+        "range": "8-11",
+        "heroes": [
+          {
+            "name": "阿轲",
+            "quality": 3,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "甄姬",
+            "quality": 4,
+            "evo": false,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "小乔",
+            "quality": 4,
+            "evo": false,
+            "x": 2,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "孙悟空",
+            "quality": 4,
+            "evo": false,
+            "x": 3,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "曹操",
+            "quality": 2,
+            "evo": false,
+            "x": 2,
+            "z": 2,
+            "equip": []
+          }
+        ],
+        "text": "白歌到4或5级之后开启爆牌模式，我们可以在4级使用我们连败积累的免费刷新，搜齐我们的核心牌曹操/甄姬/小乔/孙悟空，就可以尽快上5。在有足够容错的情况下，可以在5级积攒经济上6，在6级使用我们的奇才复制甄姬或露娜，一波成型。"
+      },
+      {
+        "range": "12-14",
+        "heroes": [
+          {
+            "name": "小乔",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "甄姬",
+            "quality": 4,
+            "evo": true,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "阿轲",
+            "quality": 3,
+            "evo": true,
+            "x": 2,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "孙悟空",
+            "quality": 4,
+            "evo": true,
+            "x": 3,
+            "z": 0,
+            "equip": [
+              "聚灵水晶",
+              "无尽巨剑",
+              "炽热支配者"
+            ]
+          },
+          {
+            "name": "露娜",
+            "quality": 5,
+            "evo": true,
+            "x": 4,
+            "z": 0,
+            "equip": [
+              "魔律之刃",
+              "贤者之书",
+              "纯净苍穹"
+            ]
+          },
+          {
+            "name": "曹操",
+            "quality": 2,
+            "evo": true,
+            "x": 1,
+            "z": 2,
+            "equip": []
+          },
+          {
+            "name": "周瑜",
+            "quality": 5,
+            "evo": true,
+            "x": 3,
+            "z": 2,
+            "equip": [
+              "不死鸟之眼",
+              "霸者重铠"
+            ]
+          }
+        ],
+        "text": "在后期，可以在锦囊里保留一张传承，或者遗志。因为在甄姬的登场被触发时，会出现大量不能和场上英雄合成的英雄牌。直接卖掉很亏，我们可以通过传承/遗志【阿珂】来空出一个人口。拿到的露娜不要急着打出，用灵感爆发一切二之后再来使用。"
+      }
+    ]
+  },
+  {
+    "key": "10003",
+    "name": "无限复活木兰",
+    "tags": [
+      "🚀近期飙升",
+      "🔥赛季热门"
+    ],
+    "useNum": 888093,
+    "score": "7.9",
+    "scoreNum": 17,
+    "likeNum": 2438,
+    "commentNum": 55,
+    "createTimestamp": "09-08",
+    "author": "抖音梦飞大大",
+    "brief": "利用木兰的无限复活和单体爆发收割全场。觉醒婉儿+程咬金每回合整备获得8个古币，能给木兰额外提供2次复活，打出露娜能再次触发咬金婉儿的整备效果无限叠加（复活次数上限10次）。",
+    "positionDesc": "木兰可以放在后排避免被集火消耗复活次数。特别注意小心【班叔】的三级弹簧，有班叔陷阱时，可以让队友都放到前排。",
+    "equipDesc": "花木兰装备推荐无尽+凝渊+炽热，神器推荐机器头和魂灭灵冠。如果遇到对手是艾琳阿离和狄仁杰，建议带凝渊+炽热+反甲或冰心。【有机器头就不需要炽热】",
+    "talentCardDesc": "天赋推荐古币相关，其次是点兵点将、全军列阵或援军帮助阵容成型。装备天赋推荐机器头>魂灭灵冠>百锻刀>驱雷>青莲剑谱。",
+    "effectCardDesc": "唤醒或集体唤醒给露娜，临阵磨枪和全军动员给上官婉儿。这些都能触发整备获得更多古币，增加花木兰复活次数（上限10次）。",
+    "lords": [
+      "嬴律",
+      "庄小鱼",
+      "明先生"
+    ],
+    "talentCards": [
+      "幸运硬币",
+      "暴君归来",
+      "买橘子去"
+    ],
+    "effectCards": [
+      "全军动员",
+      "临阵磨枪",
+      "唤醒"
+    ],
+    "finalHeroes": [
+      {
+        "name": "武则天",
+        "quality": 5,
+        "evo": true,
+        "x": 0,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "李白",
+        "quality": 4,
+        "evo": true,
+        "x": 3,
+        "z": 0,
+        "equip": [
+          "炽热支配者",
+          "反伤重甲",
+          "近卫荣耀"
+        ]
+      },
+      {
+        "name": "露娜",
+        "quality": 5,
+        "evo": false,
+        "x": 6,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "上官婉儿",
+        "quality": 4,
+        "evo": true,
+        "x": 0,
+        "z": 1,
+        "equip": [
+          "魂灭灵冠",
+          "机器头",
+          "驱雷"
+        ]
+      },
+      {
+        "name": "花木兰",
+        "quality": 5,
+        "evo": true,
+        "x": 4,
+        "z": 1,
+        "equip": [
+          "无尽巨剑",
+          "凝渊",
+          "炽热支配者"
+        ]
+      },
+      {
+        "name": "程咬金",
+        "quality": 3,
+        "evo": true,
+        "x": 3,
+        "z": 3,
+        "equip": []
+      }
+    ],
+    "phases": [
+      {
+        "range": "1-3",
+        "heroes": [
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          }
+        ],
+        "text": "单挂弈星一直留到升5级，如果对手或自己是嬴律可以等第一轮竞拍结束后根据至高决策来进行升级。第一轮竞拍优先：程咬金>梦琪>铠>明世隐。"
+      },
+      {
+        "range": "4-7",
+        "heroes": [
+          {
+            "name": "上官婉儿",
+            "quality": 4,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "花木兰",
+            "quality": 5,
+            "evo": false,
+            "x": 2,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "李白",
+            "quality": 4,
+            "evo": false,
+            "x": 5,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "武则天",
+            "quality": 5,
+            "evo": false,
+            "x": 6,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "程咬金",
+            "quality": 3,
+            "evo": false,
+            "x": 4,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "棋手快速升5级后，商店里有体系牌要买，给到免费的铠和盾山可以作为备用前排。优先觉醒婉儿>李白>花木兰，商店有露娜先购买不用。第二轮竞拍优先：婉儿>花木兰>露娜>李白>武则天。"
+      },
+      {
+        "range": "8-14",
+        "heroes": [
+          {
+            "name": "武则天",
+            "quality": 5,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "李白",
+            "quality": 4,
+            "evo": true,
+            "x": 3,
+            "z": 0,
+            "equip": [
+              "炽热支配者",
+              "反伤重甲",
+              "近卫荣耀"
+            ]
+          },
+          {
+            "name": "露娜",
+            "quality": 5,
+            "evo": false,
+            "x": 6,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "上官婉儿",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 1,
+            "equip": [
+              "魂灭灵冠",
+              "机器头",
+              "驱雷"
+            ]
+          },
+          {
+            "name": "花木兰",
+            "quality": 5,
+            "evo": true,
+            "x": 4,
+            "z": 1,
+            "equip": [
+              "无尽巨剑",
+              "凝渊",
+              "炽热支配者"
+            ]
+          },
+          {
+            "name": "程咬金",
+            "quality": 3,
+            "evo": true,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "阵容成型后一直打合成获得锦囊【唤醒/集体唤醒/临阵磨枪/全军动员】，商店的露娜必须要买，这些都是给木兰增加复活次数的资源。不花费资源太乙作为备选复活，多余能量买钟馗觉醒可以常驻。第三轮竞拍推荐：一线生机>新生力量>破境之证>能量超新星。"
+      }
+    ]
+  },
+  {
+    "key": "10006",
+    "name": "诸葛亮快速施法",
+    "tags": [
+      "🚀近期飙升",
+      "🔥赛季热门"
+    ],
+    "useNum": 365633,
+    "score": "7.8",
+    "scoreNum": 11,
+    "likeNum": 694,
+    "commentNum": 33,
+    "createTimestamp": "09-08",
+    "author": "老霹雳",
+    "brief": "通过登场牌给大乔减到10蓝，快速释放技能，从而促进诸葛亮快速大招，又能通过刘禅提升临时等级，吕布增加三分的吸血能力",
+    "positionDesc": "如果对手有集火和秒杀能力，可以考虑分散站位，没有就集中站位，通过蔡文姬稳住血量",
+    "equipDesc": "主要是大乔装备，其他不重要，对面有控制一定要给大乔带免控，最好是炽热支配者，大乔一定要到10蓝",
+    "talentCardDesc": "最适配三分快速施法的天赋",
+    "effectCardDesc": "决赛用于汇聚等级，打出更强的伤害",
+    "lords": [
+      "镜",
+      "瑶妹",
+      "常小娥"
+    ],
+    "talentCards": [
+      "怒涛",
+      "擂台猛虎",
+      "鬼神降临"
+    ],
+    "effectCards": [
+      "传承",
+      "遗志",
+      "换帅"
+    ],
+    "finalHeroes": [
+      {
+        "name": "诸葛亮",
+        "quality": 4,
+        "evo": false,
+        "x": 0,
+        "z": 0,
+        "equip": [
+          "贤者之书",
+          "自然法杖",
+          "虚无法杖"
+        ]
+      },
+      {
+        "name": "太乙真人",
+        "quality": 4,
+        "evo": false,
+        "x": 1,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "大乔",
+        "quality": 2,
+        "evo": false,
+        "x": 0,
+        "z": 1,
+        "equip": [
+          "魔律之刃",
+          "法源之杯",
+          "制裁之剑"
+        ]
+      },
+      {
+        "name": "蔡文姬",
+        "quality": 2,
+        "evo": false,
+        "x": 1,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "吕布",
+        "quality": 5,
+        "evo": false,
+        "x": 2,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "马超",
+        "quality": 3,
+        "evo": false,
+        "x": 0,
+        "z": 2,
+        "equip": []
+      },
+      {
+        "name": "刘禅",
+        "quality": 3,
+        "evo": false,
+        "x": 1,
+        "z": 2,
+        "equip": []
+      }
+    ],
+    "phases": [
+      {
+        "range": "1-3",
+        "heroes": [
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "孙尚香",
+            "quality": 1,
+            "evo": false,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "大乔",
+            "quality": 2,
+            "evo": false,
+            "x": 0,
+            "z": 1,
+            "equip": [
+              "法源之杯"
+            ]
+          },
+          {
+            "name": "蔡文姬",
+            "quality": 2,
+            "evo": false,
+            "x": 1,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "曹操",
+            "quality": 2,
+            "evo": false,
+            "x": 1,
+            "z": 2,
+            "equip": []
+          }
+        ],
+        "text": "升到两级，找以上阵容牌，有就先上，最好先蔡文姬，只有蔡文姬使用镜像牌，其他人不用"
+      },
+      {
+        "range": "4-11",
+        "heroes": [
+          {
+            "name": "诸葛亮",
+            "quality": 4,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": [
+              "贤者之书"
+            ]
+          },
+          {
+            "name": "小乔",
+            "quality": 4,
+            "evo": false,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "大乔",
+            "quality": 2,
+            "evo": false,
+            "x": 0,
+            "z": 1,
+            "equip": [
+              "法源之杯",
+              "魔律之刃"
+            ]
+          },
+          {
+            "name": "蔡文姬",
+            "quality": 2,
+            "evo": false,
+            "x": 1,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "貂蝉",
+            "quality": 3,
+            "evo": false,
+            "x": 2,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "马超",
+            "quality": 3,
+            "evo": false,
+            "x": 0,
+            "z": 2,
+            "equip": []
+          },
+          {
+            "name": "刘禅",
+            "quality": 3,
+            "evo": false,
+            "x": 1,
+            "z": 2,
+            "equip": []
+          }
+        ],
+        "text": "4-7回合升到4级找图中人员，留一个打出位，打登场牌给大乔减蓝，其他人可用复制牌觉醒"
+      },
+      {
+        "range": "12-14",
+        "heroes": [
+          {
+            "name": "诸葛亮",
+            "quality": 4,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": [
+              "贤者之书",
+              "自然法杖",
+              "虚无法杖"
+            ]
+          },
+          {
+            "name": "太乙真人",
+            "quality": 4,
+            "evo": false,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "大乔",
+            "quality": 2,
+            "evo": false,
+            "x": 0,
+            "z": 1,
+            "equip": [
+              "魔律之刃",
+              "法源之杯",
+              "制裁之剑"
+            ]
+          },
+          {
+            "name": "蔡文姬",
+            "quality": 2,
+            "evo": false,
+            "x": 1,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "吕布",
+            "quality": 5,
+            "evo": false,
+            "x": 2,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "马超",
+            "quality": 3,
+            "evo": false,
+            "x": 0,
+            "z": 2,
+            "equip": []
+          },
+          {
+            "name": "刘禅",
+            "quality": 3,
+            "evo": false,
+            "x": 1,
+            "z": 2,
+            "equip": []
+          }
+        ],
+        "text": "用效果牌传承或遗志掉其中一张牌，上吕布换帅貂蝉，吕布给三分人员提供吸血，上太乙真人挂给诸葛亮"
+      }
+    ]
+  },
+  {
+    "key": "10011",
+    "name": "逐鹿雷霆战机",
+    "tags": [
+      "🚀近期飙升",
+      "🔥赛季热门"
+    ],
+    "useNum": 280551,
+    "score": "9.1",
+    "scoreNum": 6,
+    "likeNum": 300,
+    "commentNum": 30,
+    "createTimestamp": "09-08",
+    "author": "抖音EZ.7D",
+    "brief": "通过芈月词条不断打出效果卡给主C嬴政加等级，同时触发嬴政词条无限叠法强，一秒融化敌方阵容。",
+    "positionDesc": "嬴政挂角落，其他人龟甲阵，把敌人聚集起来，嬴政开大后可以全打到。",
+    "equipDesc": "嬴政必备炽热，免疫控制，防止大招被打断。法穿提供高额输出，名刀保命",
+    "talentCardDesc": "逐鹿神级天赋，看到就点，不用犹豫",
+    "effectCardDesc": "唤醒可以触发庄周蒙犽，快速提质量，发号施令便宜实用，逐鹿必拿。",
+    "lords": [
+      "白歌",
+      "孙小宾",
+      "小妲己"
+    ],
+    "talentCards": [
+      "贤士登门",
+      "春风化雨",
+      "意外之财"
+    ],
+    "effectCards": [
+      "集体唤醒",
+      "唤醒",
+      "发号施令"
+    ],
+    "finalHeroes": [
+      {
+        "name": "嬴政",
+        "quality": 4,
+        "evo": true,
+        "x": 0,
+        "z": 0,
+        "equip": [
+          "虚无法杖",
+          "名刀·司命",
+          "炽热支配者"
+        ]
+      },
+      {
+        "name": "鲁班七号",
+        "quality": 5,
+        "evo": true,
+        "x": 1,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "蒙犽",
+        "quality": 4,
+        "evo": true,
+        "x": 0,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "芈月",
+        "quality": 2,
+        "evo": true,
+        "x": 1,
+        "z": 1,
+        "equip": [
+          "近卫荣耀"
+        ]
+      },
+      {
+        "name": "西施",
+        "quality": 3,
+        "evo": true,
+        "x": 2,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "白起",
+        "quality": 3,
+        "evo": true,
+        "x": 0,
+        "z": 2,
+        "equip": []
+      },
+      {
+        "name": "庄周",
+        "quality": 4,
+        "evo": true,
+        "x": 1,
+        "z": 2,
+        "equip": []
+      }
+    ],
+    "phases": [
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          }
+        ],
+        "text": "前期可以单挂奕星速升四级"
+      },
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "嬴政",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "蒙犽",
+            "quality": 4,
+            "evo": false,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "西施",
+            "quality": 3,
+            "evo": true,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "白起",
+            "quality": 3,
+            "evo": true,
+            "x": 1,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "庄周",
+            "quality": 4,
+            "evo": false,
+            "x": 2,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "芈月",
+            "quality": 2,
+            "evo": true,
+            "x": 1,
+            "z": 2,
+            "equip": []
+          }
+        ],
+        "text": "升到四级后，找齐阵容体系牌后可以升五级搜牌。"
+      },
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "嬴政",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": [
+              "虚无法杖",
+              "名刀·司命",
+              "炽热支配者"
+            ]
+          },
+          {
+            "name": "鲁班七号",
+            "quality": 5,
+            "evo": true,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "蒙犽",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "芈月",
+            "quality": 2,
+            "evo": true,
+            "x": 1,
+            "z": 1,
+            "equip": [
+              "近卫荣耀"
+            ]
+          },
+          {
+            "name": "西施",
+            "quality": 3,
+            "evo": true,
+            "x": 2,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "白起",
+            "quality": 3,
+            "evo": true,
+            "x": 0,
+            "z": 2,
+            "equip": []
+          },
+          {
+            "name": "庄周",
+            "quality": 4,
+            "evo": true,
+            "x": 1,
+            "z": 2,
+            "equip": []
+          }
+        ],
+        "text": "不断打出效果牌加等级和法强，同时多打合成获得锦囊牌，利用镜囊给的效果卡去提升阵容的质量。"
+      }
+    ]
+  },
+  {
+    "key": "100259557027692570",
+    "name": "瑶妹牺牲李信",
+    "tags": [
+      "🚀近期飙升",
+      "🔥赛季热门"
+    ],
+    "useNum": 288671,
+    "score": "9.7",
+    "scoreNum": 22,
+    "likeNum": 314,
+    "commentNum": 46,
+    "createTimestamp": "09-10",
+    "author": "Rui永不伏笔",
+    "brief": "利用11回合后小鹿牺牲会分享等级的效果，将等级集中到李信身上。局势较顺15回合后就能轻松999",
+    "positionDesc": "前期小鹿当前排顶前面，12回合后小鹿放后面，让其他牺牲单位先牺牲。",
+    "equipDesc": "对面单核没有机器头，考虑带变猪杖。",
+    "talentCardDesc": "",
+    "effectCardDesc": "",
+    "lords": [
+      "瑶妹"
+    ],
+    "talentCards": [
+      "人才市场",
+      "献祭之赐",
+      "最终守卫"
+    ],
+    "effectCards": [
+      "唤醒",
+      "集体唤醒"
+    ],
+    "finalHeroes": [
+      {
+        "name": "李信",
+        "quality": 4,
+        "evo": true,
+        "x": 0,
+        "z": 0,
+        "equip": [
+          "炽热支配者",
+          "魔律之刃",
+          "无尽巨剑"
+        ]
+      },
+      {
+        "name": "太乙真人",
+        "quality": 4,
+        "evo": true,
+        "x": 1,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "明世隐",
+        "quality": 3,
+        "evo": true,
+        "x": 0,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "钟馗",
+        "quality": 3,
+        "evo": true,
+        "x": 1,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "程咬金",
+        "quality": 3,
+        "evo": false,
+        "x": 2,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "盾山",
+        "quality": 2,
+        "evo": false,
+        "x": 1,
+        "z": 3,
+        "equip": []
+      },
+      {
+        "name": "铠",
+        "quality": 3,
+        "evo": false,
+        "x": 2,
+        "z": 3,
+        "equip": []
+      }
+    ],
+    "phases": [
+      {
+        "range": "1-2",
+        "heroes": [
+          {
+            "name": "李元芳",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "苏烈",
+            "quality": 1,
+            "evo": false,
+            "x": 2,
+            "z": 3,
+            "equip": []
+          },
+          {
+            "name": "牛魔",
+            "quality": 1,
+            "evo": false,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "前期配合小鹿轻松连胜加等级"
+      },
+      {
+        "range": "3-10",
+        "heroes": [
+          {
+            "name": "李信",
+            "quality": 4,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "明世隐",
+            "quality": 3,
+            "evo": false,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "钟馗",
+            "quality": 3,
+            "evo": false,
+            "x": 1,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "程咬金",
+            "quality": 3,
+            "evo": false,
+            "x": 2,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "盾山",
+            "quality": 2,
+            "evo": false,
+            "x": 1,
+            "z": 3,
+            "equip": []
+          },
+          {
+            "name": "铠",
+            "quality": 3,
+            "evo": false,
+            "x": 2,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "四级搜核心李信，其他牺牲挂件不要多拿"
+      },
+      {
+        "range": "11-14",
+        "heroes": [
+          {
+            "name": "李信",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": [
+              "炽热支配者",
+              "魔律之刃",
+              "无尽巨剑"
+            ]
+          },
+          {
+            "name": "太乙真人",
+            "quality": 4,
+            "evo": true,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "明世隐",
+            "quality": 3,
+            "evo": true,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "钟馗",
+            "quality": 3,
+            "evo": true,
+            "x": 1,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "程咬金",
+            "quality": 3,
+            "evo": false,
+            "x": 2,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "盾山",
+            "quality": 2,
+            "evo": false,
+            "x": 1,
+            "z": 3,
+            "equip": []
+          },
+          {
+            "name": "铠",
+            "quality": 3,
+            "evo": false,
+            "x": 2,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "后期轻松999"
+      }
+    ]
+  },
+  {
+    "key": "58601260474518566",
+    "name": "三分倒转-肝帝\r",
+    "tags": [
+      "🚀近期飙升"
+    ],
+    "useNum": 281627,
+    "score": "6.0",
+    "scoreNum": 2,
+    "likeNum": 63,
+    "commentNum": 4,
+    "createTimestamp": "09-12",
+    "author": "肝帝哥",
+    "brief": "30秒学会三分倒转，首先记住三张卡:露娜、曹操、甄姬。露娜和甄姬是登场牌，从手牌上场时触发效果;曹操是整备牌，回合开始时触发，且露娜登场能触发曹操整备。字符有限，详细细节一-抖音搜肝帝",
+    "positionDesc": "中期站位:小乔在中间装黄盾，大家都能吃到，猴子站位可以随便吸曹操小乔甄姬随机一个等级——抖音搜肝帝看攻略",
+    "equipDesc": "露娜双重施法月下无限连，猴子高爆发输出，后期传承遗志换帅上海月吕布+觉醒老虎——抖音搜肝帝看攻略",
+    "talentCardDesc": "身外身吃鸡天赋，一个响指sss级棱彩天赋更快找牌，这里只能选择三个天赋，更过天赋推荐——抖音搜肝帝看攻略",
+    "effectCardDesc": "唤醒露娜，集体唤醒触发双倍；前期不用攒效果牌，后期通过锦囊出现整备和唤醒效果牌就直接拿。——抖音搜肝帝",
+    "lords": [
+      "白歌",
+      "孙小宾",
+      "镜"
+    ],
+    "talentCards": [
+      "四海来援",
+      "身外身",
+      "一个响指"
+    ],
+    "effectCards": [
+      "唤醒",
+      "临阵磨枪",
+      "集体唤醒"
+    ],
+    "finalHeroes": [
+      {
+        "name": "甄姬",
+        "quality": 4,
+        "evo": true,
+        "x": 2,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "露娜",
+        "quality": 5,
+        "evo": true,
+        "x": 3,
+        "z": 1,
+        "equip": [
+          "魔律之刃",
+          "贤者之书",
+          "法源之杯"
+        ]
+      },
+      {
+        "name": "孙悟空",
+        "quality": 4,
+        "evo": true,
+        "x": 1,
+        "z": 2,
+        "equip": [
+          "无尽巨剑",
+          "名刀·司命",
+          "凝渊"
+        ]
+      },
+      {
+        "name": "小乔",
+        "quality": 4,
+        "evo": true,
+        "x": 2,
+        "z": 2,
+        "equip": []
+      },
+      {
+        "name": "阿轲",
+        "quality": 3,
+        "evo": true,
+        "x": 3,
+        "z": 2,
+        "equip": []
+      },
+      {
+        "name": "曹操",
+        "quality": 2,
+        "evo": true,
+        "x": 2,
+        "z": 3,
+        "equip": []
+      },
+      {
+        "name": "周瑜",
+        "quality": 5,
+        "evo": true,
+        "x": 3,
+        "z": 3,
+        "equip": [
+          "不死鸟之眼",
+          "霸者重铠"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "range": "1-7",
+        "heroes": [
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          }
+        ],
+        "text": "孙膑1-2回合各一张弈星(2-3回合回溯觉醒弈星)。白歌来牌顺觉醒弈星，不顺不觉醒干拉刀4本。镜单挂弈星，每\r回合一张镜像拿手里，三回合上2本。——抖音搜肝帝"
+      },
+      {
+        "range": "8-11",
+        "heroes": [
+          {
+            "name": "甄姬",
+            "quality": 4,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "孙悟空",
+            "quality": 4,
+            "evo": false,
+            "x": 5,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "小乔",
+            "quality": 4,
+            "evo": false,
+            "x": 6,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "阿轲",
+            "quality": 3,
+            "evo": false,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "曹操",
+            "quality": 2,
+            "evo": false,
+            "x": 2,
+            "z": 2,
+            "equip": []
+          }
+        ],
+        "text": "孙膑找到2个甄姬就可以回环。白歌找到一张甄姬小乔血量允许的情况下直接拉6本奇才甄姬启动。镜在第七回合曹操+镜像，小乔+镜像，甄姬+镜像，阿珂+镜像，然后万镜复制场上四张，然后曹操小乔直接打出，甄姬、阿珂继续跟镜像。字符有限——抖音搜肝帝"
+      },
+      {
+        "range": "12-14",
+        "heroes": [
+          {
+            "name": "甄姬",
+            "quality": 4,
+            "evo": true,
+            "x": 2,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "露娜",
+            "quality": 5,
+            "evo": true,
+            "x": 3,
+            "z": 1,
+            "equip": [
+              "魔律之刃",
+              "贤者之书",
+              "法源之杯"
+            ]
+          },
+          {
+            "name": "孙悟空",
+            "quality": 4,
+            "evo": true,
+            "x": 1,
+            "z": 2,
+            "equip": [
+              "无尽巨剑",
+              "名刀·司命",
+              "凝渊"
+            ]
+          },
+          {
+            "name": "小乔",
+            "quality": 4,
+            "evo": true,
+            "x": 2,
+            "z": 2,
+            "equip": []
+          },
+          {
+            "name": "阿轲",
+            "quality": 3,
+            "evo": true,
+            "x": 3,
+            "z": 2,
+            "equip": []
+          },
+          {
+            "name": "曹操",
+            "quality": 2,
+            "evo": true,
+            "x": 2,
+            "z": 3,
+            "equip": []
+          },
+          {
+            "name": "周瑜",
+            "quality": 5,
+            "evo": true,
+            "x": 3,
+            "z": 3,
+            "equip": [
+              "不死鸟之眼",
+              "霸者重铠"
+            ]
+          }
+        ],
+        "text": "后期传承遗志阿珂、小乔、甄姬、曹操的等级给海月，然后超级换帅吕布登场999级，觉醒老虎登场，整备后的老虎可以直接999级。--抖音搜肝帝\r"
+      }
+    ]
+  },
+  {
+    "key": "100822506981119016",
+    "name": "嫦娥养艾琳",
+    "tags": [
+      "🚀近期飙升"
+    ],
+    "useNum": 240961,
+    "score": "6.7",
+    "scoreNum": 3,
+    "likeNum": 52,
+    "commentNum": 14,
+    "createTimestamp": "09-10",
+    "author": "万弈一图流",
+    "brief": "利用嫦娥的技能，只上阵四名阵容核心，为阵容里的四名增加等级",
+    "positionDesc": "",
+    "equipDesc": "",
+    "talentCardDesc": "",
+    "effectCardDesc": "",
+    "lords": [
+      "常小娥"
+    ],
+    "talentCards": [],
+    "effectCards": [],
+    "finalHeroes": [
+      {
+        "name": "明世隐",
+        "quality": 3,
+        "evo": true,
+        "x": 5,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "艾琳",
+        "quality": 4,
+        "evo": true,
+        "x": 6,
+        "z": 0,
+        "equip": [
+          "寒霜侵袭",
+          "纯净苍穹",
+          "炽热支配者"
+        ]
+      },
+      {
+        "name": "瑶",
+        "quality": 3,
+        "evo": true,
+        "x": 6,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "狂铁",
+        "quality": 1,
+        "evo": true,
+        "x": 3,
+        "z": 3,
+        "equip": [
+          "生命魔典",
+          "御灵之纱",
+          "反伤重甲"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "狂铁",
+            "quality": 1,
+            "evo": false,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": ""
+      },
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "狂铁",
+            "quality": 1,
+            "evo": false,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": ""
+      },
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "明世隐",
+            "quality": 3,
+            "evo": true,
+            "x": 5,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "艾琳",
+            "quality": 4,
+            "evo": true,
+            "x": 6,
+            "z": 0,
+            "equip": [
+              "寒霜侵袭",
+              "纯净苍穹",
+              "炽热支配者"
+            ]
+          },
+          {
+            "name": "瑶",
+            "quality": 3,
+            "evo": true,
+            "x": 6,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "狂铁",
+            "quality": 1,
+            "evo": true,
+            "x": 3,
+            "z": 3,
+            "equip": [
+              "生命魔典",
+              "御灵之纱",
+              "反伤重甲"
+            ]
+          }
+        ],
+        "text": ""
+      }
+    ]
+  },
+  {
+    "key": "19757713688423450",
+    "name": "香香开团射包吃分",
+    "tags": [
+      "🚀近期飙升"
+    ],
+    "useNum": 182864,
+    "score": "8.9",
+    "scoreNum": 6,
+    "likeNum": 105,
+    "commentNum": 14,
+    "createTimestamp": "09-10",
+    "author": "古老",
+    "brief": "新手直接用，不用变阵不会老6，前期上好人口保证满入对手血，3级d全阵容升5上yao，随后上6开棋手技能锁血。",
+    "positionDesc": "鬼谷单T，公孙离把后排吸干",
+    "equipDesc": "",
+    "talentCardDesc": "",
+    "effectCardDesc": "",
+    "lords": [
+      "香香"
+    ],
+    "talentCards": [],
+    "effectCards": [],
+    "finalHeroes": [
+      {
+        "name": "公孙离",
+        "quality": 2,
+        "evo": false,
+        "x": 0,
+        "z": 0,
+        "equip": [
+          "破晓",
+          "日渊",
+          "名刀·司命"
+        ]
+      },
+      {
+        "name": "张良",
+        "quality": 3,
+        "evo": false,
+        "x": 2,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "云中君",
+        "quality": 3,
+        "evo": false,
+        "x": 3,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "虞姬",
+        "quality": 2,
+        "evo": false,
+        "x": 4,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "少司缘",
+        "quality": 3,
+        "evo": false,
+        "x": 6,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "瑶",
+        "quality": 3,
+        "evo": false,
+        "x": 0,
+        "z": 1,
+        "equip": [
+          "破茧之衣"
+        ]
+      },
+      {
+        "name": "鬼谷子",
+        "quality": 2,
+        "evo": false,
+        "x": 3,
+        "z": 3,
+        "equip": [
+          "不死鸟之眼"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "孙尚香",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 3,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "干将莫邪",
+            "quality": 1,
+            "evo": false,
+            "x": 6,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "牛魔",
+            "quality": 1,
+            "evo": false,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          },
+          {
+            "name": "狂铁",
+            "quality": 1,
+            "evo": false,
+            "x": 4,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": ""
+      },
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "公孙离",
+            "quality": 2,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "张良",
+            "quality": 3,
+            "evo": false,
+            "x": 2,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "云中君",
+            "quality": 3,
+            "evo": false,
+            "x": 3,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "虞姬",
+            "quality": 2,
+            "evo": false,
+            "x": 4,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "少司缘",
+            "quality": 3,
+            "evo": false,
+            "x": 6,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "瑶",
+            "quality": 3,
+            "evo": false,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "鬼谷子",
+            "quality": 2,
+            "evo": false,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": ""
+      },
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "公孙离",
+            "quality": 2,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": [
+              "破晓",
+              "日渊",
+              "名刀·司命"
+            ]
+          },
+          {
+            "name": "张良",
+            "quality": 3,
+            "evo": false,
+            "x": 2,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "云中君",
+            "quality": 3,
+            "evo": false,
+            "x": 3,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "虞姬",
+            "quality": 2,
+            "evo": false,
+            "x": 4,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "少司缘",
+            "quality": 3,
+            "evo": false,
+            "x": 6,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "瑶",
+            "quality": 3,
+            "evo": false,
+            "x": 0,
+            "z": 1,
+            "equip": [
+              "破茧之衣"
+            ]
+          },
+          {
+            "name": "鬼谷子",
+            "quality": 2,
+            "evo": false,
+            "x": 3,
+            "z": 3,
+            "equip": [
+              "不死鸟之眼"
+            ]
+          }
+        ],
+        "text": ""
+      }
+    ]
+  },
+  {
+    "key": "79993358704523312",
+    "name": "牺牲流李信",
+    "tags": [
+      "🚀近期飙升"
+    ],
+    "useNum": 212184,
+    "score": "10.0",
+    "scoreNum": 2,
+    "likeNum": 90,
+    "commentNum": 8,
+    "createTimestamp": "09-10",
+    "author": "69岁扶墙在弈",
+    "brief": "新人的第一个999！棋手首推瑶妹，12回合后小鹿牺牲也可为李信增加很高等级。同时可考虑使用嬴律或明先生。嬴律空降打给李信和大司命。此外，禁大河的局可把大司命换成程咬金或盾山，但阵容整体上限会稍低一些。",
+    "positionDesc": "玩瑶妹在12回合后，明世隐得拉第一排，不然可能分掉小鹿等级。",
+    "equipDesc": "一般来说李信需要带免控，对面没控制可以把炽热换成自然法杖，暗信可以高频触发变猪。",
+    "talentCardDesc": "",
+    "effectCardDesc": "",
+    "lords": [
+      "瑶妹",
+      "嬴律",
+      "明先生"
+    ],
+    "talentCards": [],
+    "effectCards": [],
+    "finalHeroes": [
+      {
+        "name": "太乙真人",
+        "quality": 4,
+        "evo": true,
+        "x": 0,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "李信",
+        "quality": 4,
+        "evo": true,
+        "x": 0,
+        "z": 2,
+        "equip": [
+          "炽热支配者",
+          "无尽巨剑",
+          "魔律之刃"
+        ]
+      },
+      {
+        "name": "明世隐",
+        "quality": 3,
+        "evo": true,
+        "x": 1,
+        "z": 3,
+        "equip": []
+      },
+      {
+        "name": "钟馗",
+        "quality": 3,
+        "evo": true,
+        "x": 2,
+        "z": 3,
+        "equip": []
+      },
+      {
+        "name": "大司命",
+        "quality": 4,
+        "evo": true,
+        "x": 3,
+        "z": 3,
+        "equip": []
+      },
+      {
+        "name": "铠",
+        "quality": 3,
+        "evo": true,
+        "x": 4,
+        "z": 3,
+        "equip": []
+      },
+      {
+        "name": "花木兰",
+        "quality": 5,
+        "evo": true,
+        "x": 5,
+        "z": 3,
+        "equip": []
+      }
+    ],
+    "phases": [
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "太乙真人",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "李信",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 2,
+            "equip": [
+              "炽热支配者",
+              "无尽巨剑",
+              "魔律之刃"
+            ]
+          },
+          {
+            "name": "明世隐",
+            "quality": 3,
+            "evo": true,
+            "x": 1,
+            "z": 3,
+            "equip": []
+          },
+          {
+            "name": "钟馗",
+            "quality": 3,
+            "evo": true,
+            "x": 2,
+            "z": 3,
+            "equip": []
+          },
+          {
+            "name": "大司命",
+            "quality": 4,
+            "evo": true,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          },
+          {
+            "name": "铠",
+            "quality": 3,
+            "evo": true,
+            "x": 4,
+            "z": 3,
+            "equip": []
+          },
+          {
+            "name": "花木兰",
+            "quality": 5,
+            "evo": true,
+            "x": 5,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": ""
+      }
+    ]
+  },
+  {
+    "key": "18631813781582878",
+    "name": "二保一艾琳",
+    "tags": [],
+    "useNum": 179313,
+    "score": "6.0",
+    "scoreNum": 11,
+    "likeNum": 83,
+    "commentNum": 12,
+    "createTimestamp": "09-10",
+    "author": "抖音一茗",
+    "brief": "瑶和明世隐保护艾琳，海月在前面挡住",
+    "positionDesc": "海月站前面，其他都站后面",
+    "equipDesc": "冰矛和免控给艾琳",
+    "talentCardDesc": "",
+    "effectCardDesc": "",
+    "lords": [
+      "常小娥"
+    ],
+    "talentCards": [],
+    "effectCards": [],
+    "finalHeroes": [
+      {
+        "name": "明世隐",
+        "quality": 3,
+        "evo": true,
+        "x": 1,
+        "z": 0,
+        "equip": [
+          "法源之杯",
+          "自然法杖"
+        ]
+      },
+      {
+        "name": "艾琳",
+        "quality": 4,
+        "evo": true,
+        "x": 2,
+        "z": 0,
+        "equip": [
+          "寒霜侵袭",
+          "破晓",
+          "炽热支配者"
+        ]
+      },
+      {
+        "name": "瑶",
+        "quality": 3,
+        "evo": true,
+        "x": 3,
+        "z": 0,
+        "equip": [
+          "破茧之衣",
+          "近卫荣耀",
+          "制裁之剑"
+        ]
+      },
+      {
+        "name": "海月",
+        "quality": 5,
+        "evo": true,
+        "x": 2,
+        "z": 3,
+        "equip": []
+      }
+    ],
+    "phases": [
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 2,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "狂铁",
+            "quality": 1,
+            "evo": true,
+            "x": 2,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "觉醒狂铁开局"
+      },
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "明世隐",
+            "quality": 3,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "瑶",
+            "quality": 3,
+            "evo": false,
+            "x": 3,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "狂铁",
+            "quality": 1,
+            "evo": true,
+            "x": 2,
+            "z": 1,
+            "equip": []
+          }
+        ],
+        "text": "找两个辅助"
+      },
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "明世隐",
+            "quality": 3,
+            "evo": true,
+            "x": 1,
+            "z": 0,
+            "equip": [
+              "法源之杯",
+              "自然法杖"
+            ]
+          },
+          {
+            "name": "艾琳",
+            "quality": 4,
+            "evo": true,
+            "x": 2,
+            "z": 0,
+            "equip": [
+              "寒霜侵袭",
+              "破晓",
+              "炽热支配者"
+            ]
+          },
+          {
+            "name": "瑶",
+            "quality": 3,
+            "evo": true,
+            "x": 3,
+            "z": 0,
+            "equip": [
+              "破茧之衣",
+              "近卫荣耀",
+              "制裁之剑"
+            ]
+          },
+          {
+            "name": "海月",
+            "quality": 5,
+            "evo": true,
+            "x": 2,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "后期把狂铁传承掉上海月"
+      }
+    ]
+  },
+  {
+    "key": "46779311452662860",
+    "name": "最强三分倒转",
+    "tags": [],
+    "useNum": 179568,
+    "score": "0.0",
+    "scoreNum": 0,
+    "likeNum": 31,
+    "commentNum": 1,
+    "createTimestamp": "09-10",
+    "author": "EZ呆头鹅",
+    "brief": "通过不断打出露娜触发整备在触发甄姬获取露娜实现经济倒转",
+    "positionDesc": "孙悟空站小乔旁边 ",
+    "equipDesc": "露娜双倍核心 孙悟空无尽 周瑜带肉装",
+    "talentCardDesc": "",
+    "effectCardDesc": "",
+    "lords": [
+      "孙小宾",
+      "镜",
+      "白歌"
+    ],
+    "talentCards": [
+      "乐善好施",
+      "人才市场",
+      "一个响指"
+    ],
+    "effectCards": [
+      "临阵磨枪",
+      "唤醒"
+    ],
+    "finalHeroes": [
+      {
+        "name": "小乔",
+        "quality": 4,
+        "evo": true,
+        "x": 0,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "甄姬",
+        "quality": 4,
+        "evo": true,
+        "x": 1,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "露娜",
+        "quality": 5,
+        "evo": true,
+        "x": 3,
+        "z": 0,
+        "equip": [
+          "法源之杯",
+          "贤者之书",
+          "魔律之刃"
+        ]
+      },
+      {
+        "name": "阿轲",
+        "quality": 3,
+        "evo": true,
+        "x": 6,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "孙悟空",
+        "quality": 4,
+        "evo": true,
+        "x": 0,
+        "z": 1,
+        "equip": [
+          "名刀·司命",
+          "炽热支配者",
+          "无尽巨剑"
+        ]
+      },
+      {
+        "name": "周瑜",
+        "quality": 5,
+        "evo": true,
+        "x": 2,
+        "z": 2,
+        "equip": [
+          "不死鸟之眼",
+          "魔女斗篷",
+          "红莲炎甲"
+        ]
+      },
+      {
+        "name": "曹操",
+        "quality": 2,
+        "evo": true,
+        "x": 3,
+        "z": 3,
+        "equip": []
+      }
+    ],
+    "phases": [
+      {
+        "range": "1-5",
+        "heroes": [
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "曹操",
+            "quality": 2,
+            "evo": false,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": ""
+      },
+      {
+        "range": "6-8",
+        "heroes": [
+          {
+            "name": "小乔",
+            "quality": 4,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "甄姬",
+            "quality": 4,
+            "evo": false,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "阿轲",
+            "quality": 3,
+            "evo": false,
+            "x": 6,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "孙悟空",
+            "quality": 4,
+            "evo": false,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "曹操",
+            "quality": 2,
+            "evo": false,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "找到现在的核心牌"
+      },
+      {
+        "range": "9-14",
+        "heroes": [
+          {
+            "name": "小乔",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "甄姬",
+            "quality": 4,
+            "evo": true,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "露娜",
+            "quality": 5,
+            "evo": true,
+            "x": 3,
+            "z": 0,
+            "equip": [
+              "法源之杯",
+              "贤者之书",
+              "魔律之刃"
+            ]
+          },
+          {
+            "name": "阿轲",
+            "quality": 3,
+            "evo": true,
+            "x": 6,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "孙悟空",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 1,
+            "equip": [
+              "名刀·司命",
+              "炽热支配者",
+              "无尽巨剑"
+            ]
+          },
+          {
+            "name": "周瑜",
+            "quality": 5,
+            "evo": true,
+            "x": 2,
+            "z": 2,
+            "equip": [
+              "不死鸟之眼",
+              "魔女斗篷",
+              "红莲炎甲"
+            ]
+          },
+          {
+            "name": "曹操",
+            "quality": 2,
+            "evo": true,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "实现无限倒转"
+      }
+    ]
+  },
+  {
+    "key": "10007",
+    "name": "马可三分射",
+    "tags": [],
+    "useNum": 147834,
+    "score": "6.0",
+    "scoreNum": 4,
+    "likeNum": 246,
+    "commentNum": 6,
+    "createTimestamp": "09-08",
+    "author": "欧洲鱼",
+    "brief": "前期依靠三分的强势和公孙离的高等级，过度，后期上小乔甄姬露娜倒转，从头强到尾\n",
+    "positionDesc": "都在蔡文姬周围吃防御和回血，阿离在角落输出",
+    "equipDesc": "输出装给公孙离，肉装给曹操，后期把孙尚香换帅成周瑜，肉装给周瑜",
+    "talentCardDesc": "乐善好施加等级很快，同路人成年礼获得大量的三分牌\n",
+    "effectCardDesc": "后期孙尚香换帅成周瑜",
+    "lords": [
+      "马可"
+    ],
+    "talentCards": [
+      "乐善好施",
+      "成年礼",
+      "同路人"
+    ],
+    "effectCards": [
+      "换帅",
+      "集体唤醒",
+      "传承"
+    ],
+    "finalHeroes": [
+      {
+        "name": "公孙离",
+        "quality": 2,
+        "evo": true,
+        "x": 0,
+        "z": 0,
+        "equip": [
+          "无尽巨剑",
+          "破晓",
+          "炽热支配者"
+        ]
+      },
+      {
+        "name": "孙尚香",
+        "quality": 1,
+        "evo": true,
+        "x": 1,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "露娜",
+        "quality": 5,
+        "evo": false,
+        "x": 6,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "小乔",
+        "quality": 4,
+        "evo": true,
+        "x": 0,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "蔡文姬",
+        "quality": 2,
+        "evo": true,
+        "x": 1,
+        "z": 1,
+        "equip": [
+          "近卫荣耀"
+        ]
+      },
+      {
+        "name": "甄姬",
+        "quality": 4,
+        "evo": true,
+        "x": 2,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "曹操",
+        "quality": 2,
+        "evo": true,
+        "x": 1,
+        "z": 2,
+        "equip": [
+          "不死鸟之眼",
+          "反伤重甲",
+          "极寒风暴"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "range": "1-3",
+        "heroes": [
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "孙尚香",
+            "quality": 1,
+            "evo": true,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "曹操",
+            "quality": 2,
+            "evo": false,
+            "x": 2,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "牛魔",
+            "quality": 1,
+            "evo": false,
+            "x": 2,
+            "z": 1,
+            "equip": []
+          }
+        ],
+        "text": "前期觉醒香香上牛魔和弈星过度，四回合升级到2级"
+      },
+      {
+        "range": "4-7",
+        "heroes": [
+          {
+            "name": "公孙离",
+            "quality": 2,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "刘禅",
+            "quality": 3,
+            "evo": false,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "孙尚香",
+            "quality": 1,
+            "evo": true,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "曹操",
+            "quality": 2,
+            "evo": true,
+            "x": 1,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "蔡文姬",
+            "quality": 2,
+            "evo": true,
+            "x": 2,
+            "z": 1,
+            "equip": []
+          }
+        ],
+        "text": "五回合升级到三级，找齐场上牌，优先觉醒蔡文姬曹操，公孙离吸刘禅等级，曹操觉醒以后卖掉刘禅换貂蝉"
+      },
+      {
+        "range": "8-14",
+        "heroes": [
+          {
+            "name": "公孙离",
+            "quality": 2,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": [
+              "无尽巨剑",
+              "破晓",
+              "炽热支配者"
+            ]
+          },
+          {
+            "name": "孙尚香",
+            "quality": 1,
+            "evo": true,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "露娜",
+            "quality": 5,
+            "evo": false,
+            "x": 6,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "小乔",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "蔡文姬",
+            "quality": 2,
+            "evo": true,
+            "x": 1,
+            "z": 1,
+            "equip": [
+              "近卫荣耀"
+            ]
+          },
+          {
+            "name": "甄姬",
+            "quality": 4,
+            "evo": true,
+            "x": 2,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "曹操",
+            "quality": 2,
+            "evo": true,
+            "x": 1,
+            "z": 2,
+            "equip": [
+              "不死鸟之眼",
+              "反伤重甲",
+              "极寒风暴"
+            ]
+          }
+        ],
+        "text": "8回合升4，不操作，10回合升级到五级，复制留着觉醒小乔和甄姬，都觉醒后，复制露娜，不断打出登场和三分牌即可，13回合到6级选阳光普照\n\n"
+      }
+    ]
+  },
+  {
+    "key": "83934008378470456",
+    "name": "乔汐999司空震",
+    "tags": [],
+    "useNum": 148422,
+    "score": "6.3",
+    "scoreNum": 8,
+    "likeNum": 50,
+    "commentNum": 15,
+    "createTimestamp": "09-10",
+    "author": "抖音总裁",
+    "brief": "适合新手！\n开局买一个奕星，别的不买，每回合花1能量召唤英雄。\n速升6本，会召唤高等级英雄助战，司空震是核心中的核心，见到必买！",
+    "positionDesc": "",
+    "equipDesc": "司空震必备金色圣剑(大棒)！",
+    "talentCardDesc": "",
+    "effectCardDesc": "",
+    "lords": [
+      "乔汐"
+    ],
+    "talentCards": [],
+    "effectCards": [],
+    "finalHeroes": [
+      {
+        "name": "李白",
+        "quality": 4,
+        "evo": true,
+        "x": 3,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "武则天",
+        "quality": 5,
+        "evo": true,
+        "x": 4,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "司空震",
+        "quality": 5,
+        "evo": true,
+        "x": 5,
+        "z": 0,
+        "equip": [
+          "金色圣剑",
+          "炽热支配者"
+        ]
+      },
+      {
+        "name": "太乙真人",
+        "quality": 4,
+        "evo": true,
+        "x": 6,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "程咬金",
+        "quality": 3,
+        "evo": true,
+        "x": 4,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "钟馗",
+        "quality": 3,
+        "evo": true,
+        "x": 5,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "上官婉儿",
+        "quality": 4,
+        "evo": true,
+        "x": 6,
+        "z": 1,
+        "equip": []
+      }
+    ],
+    "phases": [
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 3,
+            "z": 0,
+            "equip": []
+          }
+        ],
+        "text": "开局买一个奕星，别的不买，每回合花1能量召唤英雄。"
+      },
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "李白",
+            "quality": 4,
+            "evo": true,
+            "x": 3,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "武则天",
+            "quality": 5,
+            "evo": true,
+            "x": 4,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "司空震",
+            "quality": 5,
+            "evo": true,
+            "x": 5,
+            "z": 0,
+            "equip": [
+              "金色圣剑",
+              "炽热支配者"
+            ]
+          },
+          {
+            "name": "太乙真人",
+            "quality": 4,
+            "evo": true,
+            "x": 6,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "程咬金",
+            "quality": 3,
+            "evo": true,
+            "x": 4,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "钟馗",
+            "quality": 3,
+            "evo": true,
+            "x": 5,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "上官婉儿",
+            "quality": 4,
+            "evo": true,
+            "x": 6,
+            "z": 1,
+            "equip": []
+          }
+        ],
+        "text": "速升6本，会召唤高等级英雄助战，司空震是核心中的核心，见到必买！6本战斗开始时召唤的助战英雄的等级属于临时等级，可被司空震获取。"
+      }
+    ]
+  },
+  {
+    "key": "24824263269225488",
+    "name": "一念神魔",
+    "tags": [],
+    "useNum": 144943,
+    "score": "8.0",
+    "scoreNum": 4,
+    "likeNum": 87,
+    "commentNum": 7,
+    "createTimestamp": "09-10",
+    "author": "抖音一茗",
+    "brief": "牺牲联动李信加等级",
+    "positionDesc": "三个前排放前面，李信在后面输出",
+    "equipDesc": "变猪加凝渊给李信无敌",
+    "talentCardDesc": "",
+    "effectCardDesc": "",
+    "lords": [
+      "常小娥"
+    ],
+    "talentCards": [],
+    "effectCards": [],
+    "finalHeroes": [
+      {
+        "name": "李信",
+        "quality": 4,
+        "evo": true,
+        "x": 3,
+        "z": 0,
+        "equip": [
+          "凝渊",
+          "自然法杖",
+          "炽热支配者"
+        ]
+      },
+      {
+        "name": "苏烈",
+        "quality": 1,
+        "evo": true,
+        "x": 2,
+        "z": 3,
+        "equip": [
+          "不祥征兆",
+          "反伤重甲",
+          "御灵之纱"
+        ]
+      },
+      {
+        "name": "海月",
+        "quality": 5,
+        "evo": true,
+        "x": 3,
+        "z": 3,
+        "equip": [
+          "不死鸟之眼",
+          "极寒风暴",
+          "反伤重甲"
+        ]
+      },
+      {
+        "name": "铠",
+        "quality": 3,
+        "evo": true,
+        "x": 4,
+        "z": 3,
+        "equip": [
+          "反伤重甲",
+          "极寒风暴",
+          "不祥征兆"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "苏烈",
+            "quality": 1,
+            "evo": true,
+            "x": 2,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "觉醒苏烈"
+      },
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "李信",
+            "quality": 4,
+            "evo": false,
+            "x": 3,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "铠",
+            "quality": 3,
+            "evo": false,
+            "x": 2,
+            "z": 2,
+            "equip": []
+          },
+          {
+            "name": "苏烈",
+            "quality": 1,
+            "evo": true,
+            "x": 2,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "找凯，李信"
+      },
+      {
+        "range": "0-0",
+        "heroes": [
+          {
+            "name": "李信",
+            "quality": 4,
+            "evo": true,
+            "x": 3,
+            "z": 0,
+            "equip": [
+              "凝渊",
+              "自然法杖",
+              "炽热支配者"
+            ]
+          },
+          {
+            "name": "苏烈",
+            "quality": 1,
+            "evo": true,
+            "x": 2,
+            "z": 3,
+            "equip": [
+              "不祥征兆",
+              "反伤重甲",
+              "御灵之纱"
+            ]
+          },
+          {
+            "name": "海月",
+            "quality": 5,
+            "evo": true,
+            "x": 3,
+            "z": 3,
+            "equip": [
+              "不死鸟之眼",
+              "极寒风暴",
+              "反伤重甲"
+            ]
+          },
+          {
+            "name": "铠",
+            "quality": 3,
+            "evo": true,
+            "x": 4,
+            "z": 3,
+            "equip": [
+              "反伤重甲",
+              "极寒风暴",
+              "不祥征兆"
+            ]
+          }
+        ],
+        "text": "这个不需要传承，来了木兰海月直接上"
+      }
+    ]
+  },
+  {
+    "key": "78304508844282932",
+    "name": "大河龙蛇",
+    "tags": [],
+    "useNum": 157726,
+    "score": "6.0",
+    "scoreNum": 4,
+    "likeNum": 116,
+    "commentNum": 11,
+    "createTimestamp": "09-10",
+    "author": "DY万象棋小洛",
+    "brief": "大河龙蛇阵容，三图腾给敖隐、东皇提供Buff加持局内战力，多交锋词条通过张良转化为等级，虞姬根据图腾数量提升等级，以此达到阵容闭环。",
+    "positionDesc": "有东皇后，图腾不会被优先攻击，可以保证敖隐持续触发自身效果。\n面对刺客就缩角落站位，对手AOE充足就一字长蛇阵，东皇大司命站前排，其余放后排，保证图腾生存即可。",
+    "equipDesc": "敖隐必备自然法杖高频触发变猪，射手装备均适配，对手近战多就寒霜。\n东皇必备名刀，防止技能压制期间自身死亡，剩下的补肉装即可。\n大司命只需要一件铸梦·逐风就可以质变",
+    "talentCardDesc": "大河专属天赋基本都可以选择，破败神威这类提升普攻输出的天赋也可以选。",
+    "effectCardDesc": "",
+    "lords": [
+      "瑶妹",
+      "昭君",
+      "闹闹"
+    ],
+    "talentCards": [
+      "熊魂附甲",
+      "始祖熊灵",
+      "化为熊灵"
+    ],
+    "effectCards": [
+      "图腾祝福"
+    ],
+    "finalHeroes": [
+      {
+        "name": "敖隐",
+        "quality": 5,
+        "evo": true,
+        "x": 0,
+        "z": 0,
+        "equip": [
+          "破晓",
+          "炽热支配者",
+          "寒霜侵袭"
+        ]
+      },
+      {
+        "name": "张良",
+        "quality": 3,
+        "evo": true,
+        "x": 2,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "虞姬",
+        "quality": 2,
+        "evo": true,
+        "x": 4,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "少司缘",
+        "quality": 3,
+        "evo": true,
+        "x": 6,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "鬼谷子",
+        "quality": 2,
+        "evo": true,
+        "x": 3,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "大司命",
+        "quality": 4,
+        "evo": true,
+        "x": 2,
+        "z": 2,
+        "equip": [
+          "铸梦·逐风"
+        ]
+      },
+      {
+        "name": "东皇太一",
+        "quality": 5,
+        "evo": true,
+        "x": 3,
+        "z": 3,
+        "equip": [
+          "不死鸟之眼",
+          "名刀·司命",
+          "生命魔典"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "range": "1-3",
+        "heroes": [
+          {
+            "name": "干将莫邪",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 2,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "牛魔",
+            "quality": 1,
+            "evo": false,
+            "x": 1,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "牛魔、干将等一阶强力卡稳定战力，保证前期连胜；牛魔、弈星为前期提供经济优势。\n"
+      },
+      {
+        "range": "4-11",
+        "heroes": [
+          {
+            "name": "虞姬",
+            "quality": 2,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "少司缘",
+            "quality": 3,
+            "evo": false,
+            "x": 2,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "鬼谷子",
+            "quality": 2,
+            "evo": false,
+            "x": 3,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "张良",
+            "quality": 3,
+            "evo": false,
+            "x": 5,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "瑶",
+            "quality": 3,
+            "evo": false,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "大司命",
+            "quality": 4,
+            "evo": false,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "上3本找齐体系牌，瑶和云中君二选一过渡，保证战力能持续连胜后，存钱\n上5本；一拍优先级/觉醒优先级：少司缘＞张良＞虞姬＞云中君；"
+      },
+      {
+        "range": "12-14",
+        "heroes": [
+          {
+            "name": "敖隐",
+            "quality": 5,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": [
+              "破晓",
+              "炽热支配者",
+              "寒霜侵袭"
+            ]
+          },
+          {
+            "name": "张良",
+            "quality": 3,
+            "evo": true,
+            "x": 2,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "虞姬",
+            "quality": 2,
+            "evo": true,
+            "x": 4,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "少司缘",
+            "quality": 3,
+            "evo": true,
+            "x": 6,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "鬼谷子",
+            "quality": 2,
+            "evo": true,
+            "x": 3,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "大司命",
+            "quality": 4,
+            "evo": true,
+            "x": 2,
+            "z": 2,
+            "equip": [
+              "铸梦·逐风"
+            ]
+          },
+          {
+            "name": "东皇太一",
+            "quality": 5,
+            "evo": true,
+            "x": 3,
+            "z": 3,
+            "equip": [
+              "不死鸟之眼",
+              "名刀·司命",
+              "生命魔典"
+            ]
+          }
+        ],
+        "text": "5本后找敖隐和东皇，有多余人口补瑶和太乙挂给敖隐/对手单核阵容给东皇\n买卖杨玉环觉醒其余低阶卡；二拍优先级：敖隐＞东皇＞大司命；"
+      }
+    ]
+  },
+  {
+    "key": "77178608937411622",
+    "name": "香香大河开团射",
+    "tags": [],
+    "useNum": 139656,
+    "score": "8.0",
+    "scoreNum": 2,
+    "likeNum": 44,
+    "commentNum": 2,
+    "createTimestamp": "09-10",
+    "author": "七洛",
+    "brief": "吃分首选",
+    "positionDesc": "",
+    "equipDesc": "",
+    "talentCardDesc": "",
+    "effectCardDesc": "",
+    "lords": [
+      "嬴律",
+      "香香",
+      "瑶妹"
+    ],
+    "talentCards": [
+      "始祖熊灵",
+      "化为熊灵",
+      "泉水"
+    ],
+    "effectCards": [
+      "简易协作",
+      "移花接木",
+      "扶摇直上"
+    ],
+    "finalHeroes": [
+      {
+        "name": "少司缘",
+        "quality": 3,
+        "evo": true,
+        "x": 0,
+        "z": 0,
+        "equip": [
+          "末世",
+          "护命灵珠",
+          "魂祭绝刃"
+        ]
+      },
+      {
+        "name": "虞姬",
+        "quality": 2,
+        "evo": true,
+        "x": 1,
+        "z": 0,
+        "equip": [
+          "驱雷"
+        ]
+      },
+      {
+        "name": "公孙离",
+        "quality": 2,
+        "evo": true,
+        "x": 0,
+        "z": 1,
+        "equip": [
+          "日渊",
+          "寒霜侵袭",
+          "破晓"
+        ]
+      },
+      {
+        "name": "云中君",
+        "quality": 3,
+        "evo": true,
+        "x": 1,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "张良",
+        "quality": 3,
+        "evo": true,
+        "x": 2,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "瑶",
+        "quality": 3,
+        "evo": true,
+        "x": 0,
+        "z": 2,
+        "equip": [
+          "破茧之衣",
+          "名刀·司命"
+        ]
+      },
+      {
+        "name": "鬼谷子",
+        "quality": 2,
+        "evo": true,
+        "x": 1,
+        "z": 2,
+        "equip": []
+      }
+    ],
+    "phases": [
+      {
+        "range": "1-3",
+        "heroes": [
+          {
+            "name": "干将莫邪",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "李元芳",
+            "quality": 1,
+            "evo": false,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "牛魔",
+            "quality": 1,
+            "evo": false,
+            "x": 1,
+            "z": 1,
+            "equip": []
+          }
+        ],
+        "text": "一回合两张，二回合四张，保证第一次拍卖前开枪"
+      },
+      {
+        "range": "4-11",
+        "heroes": [],
+        "text": ""
+      },
+      {
+        "range": "12-14",
+        "heroes": [
+          {
+            "name": "少司缘",
+            "quality": 3,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": [
+              "末世",
+              "护命灵珠",
+              "魂祭绝刃"
+            ]
+          },
+          {
+            "name": "虞姬",
+            "quality": 2,
+            "evo": true,
+            "x": 1,
+            "z": 0,
+            "equip": [
+              "驱雷"
+            ]
+          },
+          {
+            "name": "公孙离",
+            "quality": 2,
+            "evo": true,
+            "x": 0,
+            "z": 1,
+            "equip": [
+              "日渊",
+              "寒霜侵袭",
+              "破晓"
+            ]
+          },
+          {
+            "name": "云中君",
+            "quality": 3,
+            "evo": true,
+            "x": 1,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "张良",
+            "quality": 3,
+            "evo": true,
+            "x": 2,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "瑶",
+            "quality": 3,
+            "evo": true,
+            "x": 0,
+            "z": 2,
+            "equip": [
+              "破茧之衣",
+              "名刀·司命"
+            ]
+          },
+          {
+            "name": "鬼谷子",
+            "quality": 2,
+            "evo": true,
+            "x": 1,
+            "z": 2,
+            "equip": []
+          }
+        ],
+        "text": ""
+      }
+    ]
+  },
+  {
+    "key": "109829706235869228",
+    "name": "鬼神信",
+    "tags": [],
+    "useNum": 115653,
+    "score": "4.0",
+    "scoreNum": 3,
+    "likeNum": 34,
+    "commentNum": 3,
+    "createTimestamp": "09-10",
+    "author": "七洛",
+    "brief": "瑶妹999李信",
+    "positionDesc": "",
+    "equipDesc": "",
+    "talentCardDesc": "",
+    "effectCardDesc": "",
+    "lords": [
+      "瑶妹",
+      "明先生",
+      "弈星"
+    ],
+    "talentCards": [
+      "献祭之赐",
+      "人才济济",
+      "一个响指"
+    ],
+    "effectCards": [
+      "唤醒",
+      "古币多多",
+      "集体唤醒"
+    ],
+    "finalHeroes": [
+      {
+        "name": "李信",
+        "quality": 4,
+        "evo": true,
+        "x": 0,
+        "z": 0,
+        "equip": [
+          "无尽巨剑",
+          "魔律之刃",
+          "自然法杖"
+        ]
+      },
+      {
+        "name": "明世隐",
+        "quality": 3,
+        "evo": true,
+        "x": 1,
+        "z": 0,
+        "equip": [
+          "末世",
+          "护命灵珠",
+          "学识宝石"
+        ]
+      },
+      {
+        "name": "太乙真人",
+        "quality": 4,
+        "evo": true,
+        "x": 0,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "钟馗",
+        "quality": 3,
+        "evo": true,
+        "x": 1,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "大司命",
+        "quality": 4,
+        "evo": true,
+        "x": 2,
+        "z": 1,
+        "equip": []
+      },
+      {
+        "name": "花木兰",
+        "quality": 5,
+        "evo": true,
+        "x": 3,
+        "z": 3,
+        "equip": [
+          "凝渊",
+          "炽热支配者"
+        ]
+      },
+      {
+        "name": "铠",
+        "quality": 3,
+        "evo": true,
+        "x": 4,
+        "z": 3,
+        "equip": []
+      }
+    ],
+    "phases": [
+      {
+        "range": "1-3",
+        "heroes": [
+          {
+            "name": "干将莫邪",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "李元芳",
+            "quality": 1,
+            "evo": false,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "牛魔",
+            "quality": 1,
+            "evo": false,
+            "x": 1,
+            "z": 2,
+            "equip": []
+          }
+        ],
+        "text": ""
+      },
+      {
+        "range": "4-11",
+        "heroes": [],
+        "text": ""
+      },
+      {
+        "range": "12-14",
+        "heroes": [
+          {
+            "name": "李信",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": [
+              "无尽巨剑",
+              "魔律之刃",
+              "自然法杖"
+            ]
+          },
+          {
+            "name": "明世隐",
+            "quality": 3,
+            "evo": true,
+            "x": 1,
+            "z": 0,
+            "equip": [
+              "末世",
+              "护命灵珠",
+              "学识宝石"
+            ]
+          },
+          {
+            "name": "太乙真人",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "钟馗",
+            "quality": 3,
+            "evo": true,
+            "x": 1,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "大司命",
+            "quality": 4,
+            "evo": true,
+            "x": 2,
+            "z": 1,
+            "equip": []
+          },
+          {
+            "name": "花木兰",
+            "quality": 5,
+            "evo": true,
+            "x": 3,
+            "z": 3,
+            "equip": [
+              "凝渊",
+              "炽热支配者"
+            ]
+          },
+          {
+            "name": "铠",
+            "quality": 3,
+            "evo": true,
+            "x": 4,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": ""
+      }
+    ]
+  },
+  {
+    "key": "87311708099024898",
+    "name": "三分倒转-李由多",
+    "tags": [],
+    "useNum": 93624,
+    "score": "7.3",
+    "scoreNum": 3,
+    "likeNum": 34,
+    "commentNum": 4,
+    "createTimestamp": "09-10",
+    "author": "运赢王李由多",
+    "brief": "露娜触发曹操的整备，觉醒曹操的整备触发甄姬和周瑜的登场，每次触发登场小乔都会提供等级，阿珂的登场提升等级，孙悟空的整备提升闪现英雄等级。觉醒优先级甄姬＞小乔＞曹操＞周瑜＞孙悟空＞阿珂。",
+    "positionDesc": "孙悟空优先夺取小乔等级如果不到10级则夺取甄姬等级\r\n根据对手的站位调整孙悟空阿珂站位",
+    "equipDesc": "孙悟空装备 无尽巨剑，炽热支配者，名刀司命。打花木兰带法源之杯\r\n露娜装备 魔律之刃，痛苦面具，虚无法杖。有日落海装备更好\r\n阿珂装备 无尽巨剑，冥王，名刀司命 决赛圈阿珂装备给吕布\r\n不是刚需特殊装",
+    "talentCardDesc": "如果没有推荐这些天赋可以多选回棋手血量的天赋或者短时间提升战力的天赋\r\n详细阵容教学抖音搜李由多可以找到更详细教学",
+    "effectCardDesc": "想刷牌拿集体唤醒 唤醒 全军动员 临阵磨枪 牌库有露娜可以拿闪现突击者\r\n要打决赛圈拿传承遗志换帅",
+    "lords": [
+      "白歌",
+      "孙小宾",
+      "镜"
+    ],
+    "talentCards": [
+      "锦囊妙计",
+      "身外身",
+      "宝盒"
+    ],
+    "effectCards": [
+      "集体唤醒",
+      "全军动员",
+      "闪现突击者"
+    ],
+    "finalHeroes": [
+      {
+        "name": "孙悟空",
+        "quality": 4,
+        "evo": true,
+        "x": 0,
+        "z": 0,
+        "equip": [
+          "名刀·司命",
+          "炽热支配者",
+          "无尽巨剑"
+        ]
+      },
+      {
+        "name": "小乔",
+        "quality": 4,
+        "evo": true,
+        "x": 1,
+        "z": 0,
+        "equip": [
+          "机器头",
+          "护命灵珠",
+          "法源之杯"
+        ]
+      },
+      {
+        "name": "甄姬",
+        "quality": 4,
+        "evo": true,
+        "x": 2,
+        "z": 0,
+        "equip": []
+      },
+      {
+        "name": "露娜",
+        "quality": 5,
+        "evo": false,
+        "x": 3,
+        "z": 0,
+        "equip": [
+          "魔律之刃",
+          "痛苦面具",
+          "虚无法杖"
+        ]
+      },
+      {
+        "name": "阿轲",
+        "quality": 3,
+        "evo": true,
+        "x": 6,
+        "z": 0,
+        "equip": [
+          "名刀·司命",
+          "冥王",
+          "凝渊"
+        ]
+      },
+      {
+        "name": "曹操",
+        "quality": 2,
+        "evo": true,
+        "x": 3,
+        "z": 3,
+        "equip": []
+      },
+      {
+        "name": "周瑜",
+        "quality": 5,
+        "evo": true,
+        "x": 4,
+        "z": 3,
+        "equip": [
+          "不死鸟之眼",
+          "生命魔典",
+          "御灵之纱"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "range": "1-3",
+        "heroes": [
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": false,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "孙尚香",
+            "quality": 1,
+            "evo": false,
+            "x": 6,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "梦奇",
+            "quality": 2,
+            "evo": false,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "因为每个棋手过度方式不同，详细棋手教学可以抖音搜李由多主页视频查看。觉醒弈星 根据对局天赋如果是1-2阶可以觉醒孙尚香"
+      },
+      {
+        "range": "4-7",
+        "heroes": [
+          {
+            "name": "弈星",
+            "quality": 1,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "孙悟空",
+            "quality": 4,
+            "evo": false,
+            "x": 1,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "小乔",
+            "quality": 4,
+            "evo": false,
+            "x": 2,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "甄姬",
+            "quality": 4,
+            "evo": false,
+            "x": 3,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "孙尚香",
+            "quality": 1,
+            "evo": false,
+            "x": 6,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "曹操",
+            "quality": 2,
+            "evo": false,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "合成锦囊优先选两个2阶英雄 或者拿吸纳人才2级开（有概率出曹操）商店刷到阿珂可以不着急拿"
+      },
+      {
+        "range": "8-14",
+        "heroes": [
+          {
+            "name": "孙悟空",
+            "quality": 4,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": [
+              "名刀·司命",
+              "炽热支配者",
+              "无尽巨剑"
+            ]
+          },
+          {
+            "name": "小乔",
+            "quality": 4,
+            "evo": true,
+            "x": 1,
+            "z": 0,
+            "equip": [
+              "机器头",
+              "护命灵珠",
+              "法源之杯"
+            ]
+          },
+          {
+            "name": "甄姬",
+            "quality": 4,
+            "evo": true,
+            "x": 2,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "露娜",
+            "quality": 5,
+            "evo": false,
+            "x": 3,
+            "z": 0,
+            "equip": [
+              "魔律之刃",
+              "痛苦面具",
+              "虚无法杖"
+            ]
+          },
+          {
+            "name": "阿轲",
+            "quality": 3,
+            "evo": true,
+            "x": 6,
+            "z": 0,
+            "equip": [
+              "名刀·司命",
+              "冥王",
+              "凝渊"
+            ]
+          },
+          {
+            "name": "曹操",
+            "quality": 2,
+            "evo": true,
+            "x": 3,
+            "z": 3,
+            "equip": []
+          },
+          {
+            "name": "周瑜",
+            "quality": 5,
+            "evo": true,
+            "x": 4,
+            "z": 3,
+            "equip": [
+              "不死鸟之眼",
+              "生命魔典",
+              "御灵之纱"
+            ]
+          }
+        ],
+        "text": "拍卖回来升5级，除露娜外全觉醒，曹操没觉醒前不要挂周瑜，露娜作打出位。合成给的锦囊优先拿集体唤醒 唤醒 全军动员 临阵磨枪，传承、遗志、换帅有就拿打决赛圈用。"
+      }
+    ]
+  },
+  {
+    "key": "63667810055325750",
+    "name": "全网最细常小鹅海",
+    "tags": [],
+    "useNum": 106638,
+    "score": "0.0",
+    "scoreNum": 0,
+    "likeNum": 20,
+    "commentNum": 0,
+    "createTimestamp": "09-10",
+    "author": "狩矢神丶",
+    "brief": "苏烈只为了小兔升级铺垫，后期裴擒虎为了给司空震增加等级，海月锁定战局",
+    "positionDesc": "",
+    "equipDesc": "司空震＞海月＞裴擒虎＞苏烈",
+    "talentCardDesc": "保命首选天赋绝对领域，优势首选凯旋征召，升级主拿加经验的次选加手牌英雄的，后期保命可以拿守护灵",
+    "effectCardDesc": "前期觉醒苏烈首拿加经验的研讨会，次选3阶英雄兑换卷，后期刷老虎整备技能用临阵磨枪，如果老虎链接到等级最高英雄可以先保留好",
+    "lords": [
+      "常小娥"
+    ],
+    "talentCards": [
+      "凯旋征召",
+      "绝对领域",
+      "最终守卫"
+    ],
+    "effectCards": [
+      "研读会",
+      "临阵磨枪",
+      "3阶英雄兑换券"
+    ],
+    "finalHeroes": [
+      {
+        "name": "裴擒虎",
+        "quality": 3,
+        "evo": true,
+        "x": 0,
+        "z": 0,
+        "equip": [
+          "无尽巨剑",
+          "炽热支配者",
+          "凝渊"
+        ]
+      },
+      {
+        "name": "司空震",
+        "quality": 5,
+        "evo": true,
+        "x": 6,
+        "z": 0,
+        "equip": [
+          "纯净苍穹",
+          "寒霜侵袭",
+          "金色圣剑"
+        ]
+      },
+      {
+        "name": "海月",
+        "quality": 5,
+        "evo": true,
+        "x": 2,
+        "z": 3,
+        "equip": [
+          "聚灵水晶",
+          "不死鸟之眼",
+          "魔律之刃"
+        ]
+      },
+      {
+        "name": "苏烈",
+        "quality": 1,
+        "evo": true,
+        "x": 4,
+        "z": 3,
+        "equip": [
+          "极寒风暴",
+          "反伤重甲",
+          "红莲炎甲"
+        ]
+      }
+    ],
+    "phases": [
+      {
+        "range": "1-5",
+        "heroes": [
+          {
+            "name": "苏烈",
+            "quality": 1,
+            "evo": true,
+            "x": 4,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "1-5回合 开局只上场1张苏烈推荐觉醒，觉醒后不买苏烈升级，每局只靠小兔技能升级，回合中可预购一张奕星，拍卖首推拿裴擒虎，第5回合不主动升级，先使用小兔技能给苏烈后上奕星，开战自动升级"
+      },
+      {
+        "range": "6-12",
+        "heroes": [
+          {
+            "name": "裴擒虎",
+            "quality": 3,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": []
+          },
+          {
+            "name": "苏烈",
+            "quality": 1,
+            "evo": true,
+            "x": 4,
+            "z": 3,
+            "equip": []
+          }
+        ],
+        "text": "6-12回合 直接升3级，有好天赋可以升4级，升级后卖掉奕星继续单挂苏烈，也可利用免费刷新次数找裴擒虎，若没有继续单挂直升6级"
+      },
+      {
+        "range": "13-14",
+        "heroes": [
+          {
+            "name": "裴擒虎",
+            "quality": 3,
+            "evo": true,
+            "x": 0,
+            "z": 0,
+            "equip": [
+              "无尽巨剑",
+              "炽热支配者",
+              "凝渊"
+            ]
+          },
+          {
+            "name": "司空震",
+            "quality": 5,
+            "evo": true,
+            "x": 6,
+            "z": 0,
+            "equip": [
+              "纯净苍穹",
+              "寒霜侵袭",
+              "金色圣剑"
+            ]
+          },
+          {
+            "name": "海月",
+            "quality": 5,
+            "evo": true,
+            "x": 2,
+            "z": 3,
+            "equip": [
+              "聚灵水晶",
+              "不死鸟之眼",
+              "魔律之刃"
+            ]
+          },
+          {
+            "name": "苏烈",
+            "quality": 1,
+            "evo": true,
+            "x": 4,
+            "z": 3,
+            "equip": [
+              "极寒风暴",
+              "反伤重甲",
+              "红莲炎甲"
+            ]
+          }
+        ],
+        "text": "13回合 6级后上阵四名英雄先用大兔子技能，接着小兔子技能，装备优先给司空震，核心思路司空震＞海月＞裴擒虎＞苏烈"
+      }
+    ]
+  }
+]
