@@ -10,7 +10,7 @@
 
 ## 如何使用
 
-在支持 Codex Skill 的 Agent 中，最稳定的触发方式是在问题中写出 `$wanxiang-build`。可以把它放在提问开头，也可以放在正文中；Skill 名称后直接接你的局面和目标即可。支持自动发现 Skill 的环境也可以直接描述任务，但显式写出名称更容易确保使用本 Skill。
+安装本 Skill 有两种方式。推荐在 Agent 对话中直接说：“帮我安装 [wanxiang-build](https://github.com/Cjy-CN/wanxiang-build) 这个 Skill”。也可以将本项目目录下的 `skills` 文件夹拖入你所使用的 Agent 工具的 Skill 目录；安装完成后重新打开或刷新会话即可使用。
 
 ### 从零构筑提问
 
