@@ -8,6 +8,13 @@
 
 快速入口：[Skill 指令](skills/wanxiang-build/SKILL.md) · [规则与资料边界](skills/wanxiang-build/references/sources.md) · [评分规则](skills/wanxiang-build/references/scoring.md) · [战斗转化评估](skills/wanxiang-build/references/combat-evaluation.md) · [觉醒 / 升阶机会成本](skills/wanxiang-build/references/investment.md)
 
+## 更新摘要 · 2026-09-18
+
+- 固化[精简关键词提取与增量维护](skills/wanxiang-build/references/keyword-tags.md)流程，支持新增、改版卡牌的标签整理，保留已核验标签的简洁粒度。
+- 新增[初始构筑入口与棋手增益匹配](skills/wanxiang-build/references/initial-build-player-fit.md)：从21个A类标签检索，区分阵容母集与外挂组件，先分析构筑缺陷，再选择能补足短板的棋手。
+- 收录新棋手阿离（官方ID20）的技能、秘技、专属及7张关联卡，补充各强化分支的适配条件；棋手资料增至19名。
+- 同步核心玩法调整：庄小鱼「如梦似幻」使用能量8→6；始祖熊灵40级强化调整为35%减伤、50%攻速、持续5秒；镜6级天赋仅更新显示说明。此次不涉及拍卖优化。
+
 ## 如何使用
 
 安装本 Skill 有两种方式。推荐在 Agent 对话中直接说：“帮我安装 [wanxiang-build](https://github.com/Cjy-CN/wanxiang-build) 这个 Skill”。也可以将本项目目录下的 `skills` 文件夹拖入你所使用的 Agent 工具的 Skill 目录；安装完成后重新打开或刷新会话即可使用。
@@ -85,7 +92,7 @@ flowchart LR
 └─ README.md
 ```
 
-当前随 Skill 携带的资料快照包括：85 名英雄、98 张效果牌、255 张天赋牌、73 张装备牌、18 名棋手、5 套官方推荐阵容和 21 份其他参考阵容数据，以及规则、成长、技能、召唤物和伤害抗性说明。参考阵容用于提出和对照假设，不是权威强度排名。
+当前随 Skill 携带的资料快照包括：85 名英雄、98 张效果牌、255 张天赋牌、73 张装备牌、19 名棋手、5 套官方推荐阵容和 21 份其他参考阵容数据，以及规则、成长、技能、召唤物和伤害抗性说明。参考阵容用于提出和对照假设，不是权威强度排名。
 
 ## 安装
 
